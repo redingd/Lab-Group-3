@@ -33,7 +33,7 @@ class StandardAccount(Account):
 class HighYieldAccount(Account):
     pass
 
-
+# storing customer information
 num_customers = int(input("Please enter the number of customers: "))
 customers = []
 for customer in range(num_customers):
@@ -42,11 +42,13 @@ for customer in range(num_customers):
         customer_name = customer_name
     else:
         print("Customer name cannot be empty")
+    # input validation
     customer_opening_balance = float(input("Enter opening balance: "))
     if 50 <= customer_opening_balance <= 2000000:
         customer_opening_balance = customer_opening_balance
     else:
         print("Opening balance must be between 50 and 2000000 dollars")
+    # Assigning account type
     if customer_opening_balance <= 50000:
         customer_account_type = "Bronze"
     if customer_opening_balance <= 100000:
@@ -56,4 +58,3 @@ for customer in range(num_customers):
     else:
         customer_account_type = "Diamond"
     customers.append((customer_name, customer_opening_balance, customer_account_type))
-print(customers)
