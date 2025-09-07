@@ -21,9 +21,8 @@ class Account:
     def __init__(self, interest_rate:float, closing_balance:float = 0.00):
         self._interest_rate = interest_rate
         self.closing_balance = closing_balance
-    interest_rate = 0.05
     def set_interest_rate(self):
-        pass
+        interest_rate = 5.00
     def calculate_interest(self):
         interest = opening_balance * interest_rate
     def calculate_closing_balance(self):
@@ -78,4 +77,5 @@ for customer in range(num_customers):
     else:
         customer_account_type = "Diamond"
     customers.append((customer_name, customer_opening_balance, customer_account_type))
+
 
