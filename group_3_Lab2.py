@@ -54,6 +54,14 @@ class HighYieldAccount(Account):
     def calculate_closing_balance(self):
         super().calculate_closing_balance()
 
+# ask user if they want to change interest rate
+interest_rate = 1.125 # defaults to 12.5%
+ans = "Would you like to override the default interest rate of 12.5%? Y or N: ")
+if ans == "Y":
+    interest_rate = float(input("Enter new interest rate: ")
+elif ans != "N":
+    print("Not a valid input")
+
 # get num of customers
 num_customers = int(input("Please enter the number of customers: "))
 
@@ -101,11 +109,16 @@ for customer in range(num_customers):
     customers.append(Customer(customer_name, customer_opening_balance, customer_account_type))
 
 # Print Customer Report
-print("CUSTOMER REPORT \n------------------------------------------------------------------------------------")
+print("CUSTOMER REPORT \n----------------------------------------------------------------------------------------------")
 print("Name \tOpeningBalance \tInterest Earned \tClosing Balance \tType \tAccount")
 for i in range(len(customers):
     customers[i].toString()
+print("----------------------------------------------------------------------------------------------")
 print("Total Customers: ", num_customers)
 print("By Customer Type: Bronze = ", num_bronze, ", Silver = ", num_silver, ", Gold = ", num_gold, ", Diamond = ", num_diamond)
 print("By Account Kind: Standard = ", num_standard, ", High Yield = ", num_high_yield)
+print("Total Interest Paid: $", total_interest_paid)
+print("Highest Closing Balance: $", highest_closing_amt, " (", highest_closing_name, ")")
+print("Lowest Closing Balance: $", lowest_closing_amt, " (", lowest_closing_name, ")")
+
 
