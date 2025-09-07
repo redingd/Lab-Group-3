@@ -16,13 +16,15 @@ class Customer:
             print("Name must not be empty")
         else:
             self._name = name
+    def toString():
+        print(self._name, "\t", self._opening_balance, "\t", self._account_type) # how do you want to get interest, closing balance and account kind?
 
 class Account:
     def __init__(self, interest_rate:float, closing_balance:float = 0.00):
         self._interest_rate = interest_rate
         self.closing_balance = closing_balance
     def set_interest_rate(self):
-        interest_rate = 5.00
+        interest_rate = int(input("Set interest rate to: ")) # 12.5%
     def calculate_interest(self):
         interest = opening_balance * interest_rate
     def calculate_closing_balance(self):
@@ -48,13 +50,29 @@ class HighYieldAccount(Account):
     def set_interest_rate(self):
         super().set_interest_rate()
     def calculate_interest(self):
-        interest = opening_balance * interest_rate * (1 + (opening_balance / 10000000))
+        interest = opening_balance * interest_rate * (1 + (opening_balance / 100000))
     def calculate_closing_balance(self):
         super().calculate_closing_balance()
 
-# storing customer information
+# get num of customers
 num_customers = int(input("Please enter the number of customers: "))
-customers = []
+
+# following values, as well as num_customers, to be used for summary statistics later on
+num_bronze = 0
+num_silver = 0
+num_gold = 0
+num_diamond = 0
+num_standard = 0
+num_high_yield = 0
+total_interest_paid = 0.00
+hightest_closing_amt = 0.00
+highest_closing_name = ""
+lowest_closing_amt = 0.00
+lowest_closing_name = ""
+
+customers = Customer[]
+
+# storing customer information
 for customer in range(num_customers):
     customer_name = input("Please enter the customer name: ")
     if customer_name != "":
@@ -70,12 +88,24 @@ for customer in range(num_customers):
     # Assigning account type
     if customer_opening_balance <= 50000:
         customer_account_type = "Bronze"
+        num_bronze ++
     if customer_opening_balance <= 100000:
         customer_account_type = "Silver"
+        num_silver ++
     if customer_opening_balance <= 150000:
         customer_account_type = "Gold"
+        num_gold ++
     else:
         customer_account_type = "Diamond"
-    customers.append((customer_name, customer_opening_balance, customer_account_type))
+        num_diamond ++
+    customers.append(Customer(customer_name, customer_opening_balance, customer_account_type))
 
+# Print Customer Report
+print("CUSTOMER REPORT \n------------------------------------------------------------------------------------")
+print("Name \tOpeningBalance \tInterest Earned \tClosing Balance \tType \tAccount")
+for i in range(len(customers):
+    customers[i].toString()
+print("Total Customers: ", num_customers)
+print("By Customer Type: Bronze = ", num_bronze, ", Silver = ", num_silver, ", Gold = ", num_gold, ", Diamond = ", num_diamond)
+print("By Account Kind: Standard = ", num_standard, ", High Yield = ", num_high_yield)
 
