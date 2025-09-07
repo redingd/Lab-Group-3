@@ -28,10 +28,30 @@ class Account:
         interest = opening_balance * interest_rate
     def calculate_closing_balance(self):
         closing_balance = interest + opening_balance
+
+# define StandardAccount, which is a subclass of Account
+# all methods and variables are kept the same and will call their definitions in Account
 class StandardAccount(Account):
-    pass
+    def __init__(self, interest_rate:float, closing_balance:float = 0.00):
+        super().__init__(interest_rate, closing_balance)
+    def set_interest_rate(self):
+        super().set_interest_rate()
+    def calculate_interest(self):
+        super().calculate_interest()
+    def calculate_closing_balance(self):
+        super().calculate_closing_balance()
+
+# define HighYieldAccount, which is a subclass of Account
+# overrides the calculate_interest method from Account, identical to StandardAccount otherwise
 class HighYieldAccount(Account):
-    pass
+    def __init__(self, interest_rate:float, closing_balance:float = 0.00):
+        super().__init__(interest_rate, closing_balance)
+    def set_interest_rate(self):
+        super().set_interest_rate()
+    def calculate_interest(self):
+        interest = opening_balance * interest_rate * (1 + (opening_balance / 10000000))
+    def calculate_closing_balance(self):
+        super().calculate_closing_balance()
 
 # storing customer information
 num_customers = int(input("Please enter the number of customers: "))
@@ -58,3 +78,4 @@ for customer in range(num_customers):
     else:
         customer_account_type = "Diamond"
     customers.append((customer_name, customer_opening_balance, customer_account_type))
+
