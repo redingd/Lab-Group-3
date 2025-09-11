@@ -1,0 +1,5769 @@
+<?xml version="1.0" ?>
+<lives>
+  <life id="L001">
+    <personalInfo>
+      <name>Angela Norris</name>
+      <age>50</age>
+      <location>North Jonathan</location>
+      <hobbies>sit, support, house</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>c5eac1ef-cee7-41f8-a83a-849d0f635387</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">11</deadline>
+        <status>Not Started</status>
+        <progress percentage="66"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Stephanie Bailey</name>
+          <relation>Child</relation>
+          <age>46</age>
+        </member>
+        <member>
+          <name>Carrie Ruiz</name>
+          <relation>Spouse</relation>
+          <age>24</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Homeopath</title>
+      <company>Cabrera-Barrett</company>
+    </employment>
+  </life>
+  <life id="L002">
+    <personalInfo>
+      <name>Daniel Garcia</name>
+      <age>31</age>
+      <location>Lake Amandaview</location>
+      <hobbies>available, garden, along</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>40608d48-200c-4a86-8ef8-9070807f046e</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">8</deadline>
+        <status>Completed</status>
+        <progress percentage="9"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Danny Jones</name>
+          <relation>Parent</relation>
+          <age>76</age>
+        </member>
+        <member>
+          <name>Victoria Flores</name>
+          <relation>Parent</relation>
+          <age>50</age>
+        </member>
+        <member>
+          <name>Joseph Brown</name>
+          <relation>Child</relation>
+          <age>30</age>
+        </member>
+        <member>
+          <name>Angela Thomas</name>
+          <relation>Spouse</relation>
+          <age>71</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Sandra Bernard</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Brittany King</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+        <friend>
+          <name>Crystal Ware</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+        <friend>
+          <name>Keith Carey</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+  </life>
+  <life id="L003">
+    <personalInfo>
+      <name>Karen House</name>
+      <age>60</age>
+      <location>Jonestown</location>
+      <hobbies>report, war, think</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>5a898232-db83-4d3a-84b6-e89c19f24209</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">1</deadline>
+        <status>Not Started</status>
+        <progress percentage="42"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Thomas Gutierrez</name>
+          <relation>Child</relation>
+          <age>21</age>
+        </member>
+        <member>
+          <name>Theresa Butler</name>
+          <relation>Parent</relation>
+          <age>23</age>
+        </member>
+        <member>
+          <name>Joshua Monroe</name>
+          <relation>Parent</relation>
+          <age>52</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Deborah Collins</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Maria Garcia</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Employed</status>
+      <title>Editor, commissioning</title>
+      <company>Yang Ltd</company>
+    </employment>
+  </life>
+  <life id="L004">
+    <personalInfo>
+      <name>Jeffrey Walters</name>
+      <age>60</age>
+      <location>Kirbyburgh</location>
+      <hobbies>range, method, military</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>71baf3c0-6c2f-4a11-ae56-ae59b8ad33dd</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Low</priority>
+        <deadline unit="months">9</deadline>
+        <status>In Progress</status>
+        <progress percentage="61"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Karen Fitzpatrick</name>
+          <relation>Sibling</relation>
+          <age>55</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Stacey Sherman</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Unemployed</status>
+      <title>Designer, fashion/clothing</title>
+      <company>Barnes-Ross</company>
+    </employment>
+  </life>
+  <life id="L005">
+    <personalInfo>
+      <name>Victoria Foster</name>
+      <age>44</age>
+      <location>North Bobby</location>
+      <hobbies>serve, born, allow</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>5438ad8e-765d-4d69-a206-8be67dbaf074</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">10</deadline>
+        <status>Completed</status>
+        <progress percentage="49"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Catherine White</name>
+          <yearsKnown>10</yearsKnown>
+        </friend>
+        <friend>
+          <name>Michelle Smith</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+        <friend>
+          <name>Shawn Melendez</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Melissa Gregory</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Clear can current</title>
+          <author>Henry Miller</author>
+          <genre>Fiction</genre>
+          <year>2010</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Graphic designer</title>
+      <company>Lowe LLC</company>
+    </employment>
+  </life>
+  <life id="L006">
+    <personalInfo>
+      <name>Erin Hubbard</name>
+      <age>64</age>
+      <location>Cherylmouth</location>
+      <hobbies>these, TV, explain</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>4bc28900-022b-4b56-9f09-09f2318f6292</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">7</deadline>
+        <status>In Progress</status>
+        <progress percentage="66"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Charles Curtis</name>
+          <relation>Spouse</relation>
+          <age>52</age>
+        </member>
+        <member>
+          <name>Joseph Garcia</name>
+          <relation>Sibling</relation>
+          <age>44</age>
+        </member>
+        <member>
+          <name>Samantha Hernandez</name>
+          <relation>Sibling</relation>
+          <age>53</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jessica Cooper</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+        <friend>
+          <name>Roberto Ellis</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Melissa Flowers</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Else shake might agency</title>
+          <author>Clayton Patrick</author>
+          <genre>Fiction</genre>
+          <year>1997</year>
+        </book>
+        <book>
+          <title>Enjoy business ready support</title>
+          <author>Cory Walters</author>
+          <genre>Non-Fiction</genre>
+          <year>2011</year>
+        </book>
+        <book>
+          <title>Inside maybe anyone</title>
+          <author>Benjamin Nguyen</author>
+          <genre>Non-Fiction</genre>
+          <year>2011</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Holiday representative</title>
+      <company>Hopkins-Price</company>
+    </employment>
+  </life>
+  <life id="L007">
+    <personalInfo>
+      <name>Alexandra George</name>
+      <age>62</age>
+      <location>Lake Andrewborough</location>
+      <hobbies>stage, agency, shoulder</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>9fba5e86-8a1d-4bd1-8e56-fb3abec061c0</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">2</deadline>
+        <status>Not Started</status>
+        <progress percentage="87"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Lauren Thomas</name>
+          <relation>Spouse</relation>
+          <age>67</age>
+        </member>
+        <member>
+          <name>Michael Watts</name>
+          <relation>Spouse</relation>
+          <age>41</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Laura Long</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+        <friend>
+          <name>Crystal Hernandez</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+        <friend>
+          <name>Nicholas Smith</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Leroy Reed</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Financial risk analyst</title>
+      <company>Murphy PLC</company>
+    </employment>
+  </life>
+  <life id="L008">
+    <personalInfo>
+      <name>Tyler Garcia</name>
+      <age>23</age>
+      <location>Heidiport</location>
+      <hobbies>mission, party, particularly</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>3cda8487-1c78-4870-95d9-76b8d75764a5</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">6</deadline>
+        <status>Not Started</status>
+        <progress percentage="35"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Melissa Dennis</name>
+          <relation>Child</relation>
+          <age>31</age>
+        </member>
+        <member>
+          <name>Jeremiah Rodriguez</name>
+          <relation>Parent</relation>
+          <age>27</age>
+        </member>
+        <member>
+          <name>Ann Scott</name>
+          <relation>Parent</relation>
+          <age>53</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jennifer Haas</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+        <friend>
+          <name>Courtney Johnson</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Structure major section</title>
+          <author>Alex Li</author>
+          <genre>Non-Fiction</genre>
+          <year>1997</year>
+        </book>
+        <book>
+          <title>Inside open newspaper</title>
+          <author>Sarah Gibson</author>
+          <genre>Self-Help</genre>
+          <year>2012</year>
+        </book>
+        <book>
+          <title>Later</title>
+          <author>Dennis Oneill</author>
+          <genre>Fiction</genre>
+          <year>2010</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L009">
+    <personalInfo>
+      <name>David King</name>
+      <age>61</age>
+      <location>North Samanthaport</location>
+      <hobbies>analysis, paper, international</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>800a1456-442c-4818-9b7c-935560e2e757</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>High</priority>
+        <deadline unit="months">10</deadline>
+        <status>Not Started</status>
+        <progress percentage="75"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Gerald Soto</name>
+          <relation>Child</relation>
+          <age>52</age>
+        </member>
+        <member>
+          <name>Caleb Jones</name>
+          <relation>Spouse</relation>
+          <age>56</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Eric Lowery</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+        <friend>
+          <name>Samantha Gregory</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Sara Jones</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Mr. Richard King</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Employed</status>
+      <title>Psychotherapist</title>
+      <company>Garza-Mclaughlin</company>
+    </employment>
+  </life>
+  <life id="L010">
+    <personalInfo>
+      <name>Tammy Duke</name>
+      <age>58</age>
+      <location>Lake Shannon</location>
+      <hobbies>risk, reason, order</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>6524f19f-e499-44e0-ac52-2366e6dfeebe</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>High</priority>
+        <deadline unit="months">3</deadline>
+        <status>In Progress</status>
+        <progress percentage="85"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Chief Technology Officer</title>
+      <company>Rodriguez Inc</company>
+    </employment>
+  </life>
+  <life id="L011">
+    <personalInfo>
+      <name>Terry Moreno</name>
+      <age>56</age>
+      <location>Port Paulview</location>
+      <hobbies>blood, whole, pattern</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>79c7564f-8f37-4e58-81f4-ec29ffdecfc1</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">12</deadline>
+        <status>In Progress</status>
+        <progress percentage="44"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+  </life>
+  <life id="L012">
+    <personalInfo>
+      <name>Rhonda Lamb</name>
+      <age>28</age>
+      <location>Lake Julian</location>
+      <hobbies>four, cover, might</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>81c43557-c0e9-41b0-982d-951cc1cc8599</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">8</deadline>
+        <status>In Progress</status>
+        <progress percentage="23"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Zachary Leach</name>
+          <relation>Sibling</relation>
+          <age>23</age>
+        </member>
+        <member>
+          <name>Lori Brock</name>
+          <relation>Parent</relation>
+          <age>37</age>
+        </member>
+        <member>
+          <name>Daniel Fitzgerald</name>
+          <relation>Sibling</relation>
+          <age>41</age>
+        </member>
+        <member>
+          <name>Diane Duke</name>
+          <relation>Sibling</relation>
+          <age>19</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Risk yard</title>
+          <author>Mark Mcgee</author>
+          <genre>Biography</genre>
+          <year>2023</year>
+        </book>
+        <book>
+          <title>Enough business building</title>
+          <author>Linda Smith</author>
+          <genre>Fiction</genre>
+          <year>2000</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L013">
+    <personalInfo>
+      <name>William Fischer</name>
+      <age>49</age>
+      <location>East Kelsey</location>
+      <hobbies>world, amount, almost</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>8a0ef372-9352-451f-a56f-7b7e1a307d7c</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">2</deadline>
+        <status>In Progress</status>
+        <progress percentage="24"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Johnny Rosales</name>
+          <relation>Sibling</relation>
+          <age>49</age>
+        </member>
+        <member>
+          <name>Allison Smith</name>
+          <relation>Spouse</relation>
+          <age>51</age>
+        </member>
+        <member>
+          <name>Jeffery Velasquez</name>
+          <relation>Child</relation>
+          <age>21</age>
+        </member>
+        <member>
+          <name>John Chase</name>
+          <relation>Parent</relation>
+          <age>68</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Heather Moss</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+        <friend>
+          <name>Daniel Mcfarland</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L014">
+    <personalInfo>
+      <name>Elaine Green</name>
+      <age>53</age>
+      <location>Welchstad</location>
+      <hobbies>forward, summer, bed</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>d064ccd0-1e5b-4bfa-9862-0cf70689866c</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">2</deadline>
+        <status>In Progress</status>
+        <progress percentage="21"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Mary Walton</name>
+          <relation>Spouse</relation>
+          <age>65</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kenneth Drake</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Javier Poole</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Assume window charge</title>
+          <author>Victor Gordon</author>
+          <genre>Biography</genre>
+          <year>2000</year>
+        </book>
+        <book>
+          <title>Against model</title>
+          <author>Douglas Neal</author>
+          <genre>Self-Help</genre>
+          <year>2018</year>
+        </book>
+        <book>
+          <title>Experience work boy toward</title>
+          <author>Gina Leon</author>
+          <genre>Fiction</genre>
+          <year>2011</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Clinical cytogeneticist</title>
+      <company>Baker-Kelley</company>
+    </employment>
+  </life>
+  <life id="L015">
+    <personalInfo>
+      <name>Duane Blake</name>
+      <age>65</age>
+      <location>Kennethberg</location>
+      <hobbies>letter, level, quickly</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>20b42379-7651-47af-b9bd-1fd2289edbfd</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">10</deadline>
+        <status>Not Started</status>
+        <progress percentage="71"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Krista Fritz</name>
+          <relation>Child</relation>
+          <age>28</age>
+        </member>
+        <member>
+          <name>Dr. Nicholas Briggs Jr.</name>
+          <relation>Spouse</relation>
+          <age>30</age>
+        </member>
+        <member>
+          <name>Danielle Anderson</name>
+          <relation>Spouse</relation>
+          <age>47</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Janet Martin</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L016">
+    <personalInfo>
+      <name>Amy Velasquez</name>
+      <age>41</age>
+      <location>Singletonville</location>
+      <hobbies>store, after, less</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>0eaca175-f6a8-4964-b54c-26f0670270ed</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">3</deadline>
+        <status>Not Started</status>
+        <progress percentage="32"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Corey Davenport</name>
+          <relation>Child</relation>
+          <age>69</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jacob Clark</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jasmine Williams</name>
+          <yearsKnown>1</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L017">
+    <personalInfo>
+      <name>Margaret Rivas</name>
+      <age>60</age>
+      <location>Schultzburgh</location>
+      <hobbies>light, focus, eat</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>77b79ea9-4208-4c0c-86a1-4eec43fae490</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">6</deadline>
+        <status>In Progress</status>
+        <progress percentage="12"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Sarah Hoover</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+        <friend>
+          <name>Christine Stephens</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Derek King</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Amanda Wheeler</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L018">
+    <personalInfo>
+      <name>Mckenzie Peck</name>
+      <age>41</age>
+      <location>Allenfort</location>
+      <hobbies>act, why, pick</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>df1d21bb-f54e-412e-b3ff-86d1b1fb30f9</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Low</priority>
+        <deadline unit="months">3</deadline>
+        <status>Completed</status>
+        <progress percentage="81"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Andrew Lopez</name>
+          <relation>Spouse</relation>
+          <age>35</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Lori Johns</name>
+          <yearsKnown>10</yearsKnown>
+        </friend>
+        <friend>
+          <name>Laura Mcgee</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L019">
+    <personalInfo>
+      <name>Jeffrey Miller</name>
+      <age>53</age>
+      <location>West Stephanie</location>
+      <hobbies>apply, around, reason</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>1979805b-183d-4a40-a039-338535c4b0d6</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>High</priority>
+        <deadline unit="months">11</deadline>
+        <status>Not Started</status>
+        <progress percentage="93"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Angela Stone</name>
+          <relation>Spouse</relation>
+          <age>35</age>
+        </member>
+        <member>
+          <name>Daniel Mcguire</name>
+          <relation>Spouse</relation>
+          <age>67</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kathleen Webb DDS</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Susan Madden</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+        <friend>
+          <name>Casey Bowman</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Engineer, aeronautical</title>
+      <company>Walker Group</company>
+    </employment>
+  </life>
+  <life id="L020">
+    <personalInfo>
+      <name>William Blanchard</name>
+      <age>23</age>
+      <location>West Christopher</location>
+      <hobbies>officer, full, level</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>76f110b4-f4bc-463b-b4c4-ae7dde98d7cf</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">9</deadline>
+        <status>Not Started</status>
+        <progress percentage="57"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Rebecca Oconnor</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Andrew Ryan</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jesus Price</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jasmine Li</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Indeed responsibility food</title>
+          <author>Elizabeth Clark</author>
+          <genre>Self-Help</genre>
+          <year>2000</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Proofreader</title>
+      <company>Brown, Ward and Robinson</company>
+    </employment>
+  </life>
+  <life id="L021">
+    <personalInfo>
+      <name>Andrew Scott</name>
+      <age>30</age>
+      <location>Andrealand</location>
+      <hobbies>class, share, adult</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f4ee5e53-1dc3-4248-9481-557ae0b8a371</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Low</priority>
+        <deadline unit="months">3</deadline>
+        <status>Not Started</status>
+        <progress percentage="6"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Donald Gutierrez</name>
+          <relation>Sibling</relation>
+          <age>77</age>
+        </member>
+        <member>
+          <name>Bryan Gonzales</name>
+          <relation>Spouse</relation>
+          <age>50</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Elizabeth Welch</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Michelle Carey</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+        <friend>
+          <name>William Eaton</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Memory reveal behind</title>
+          <author>Sonya Allen</author>
+          <genre>Self-Help</genre>
+          <year>2001</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Waste management officer</title>
+      <company>Lee LLC</company>
+    </employment>
+  </life>
+  <life id="L022">
+    <personalInfo>
+      <name>Jonathan Cook</name>
+      <age>51</age>
+      <location>Youngbury</location>
+      <hobbies>loss, expert, worker</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>dfe9f901-7c83-40d9-9852-690aef470b59</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Low</priority>
+        <deadline unit="months">6</deadline>
+        <status>Completed</status>
+        <progress percentage="25"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Thomas Harrison</name>
+          <relation>Parent</relation>
+          <age>62</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Danielle Henson</name>
+          <yearsKnown>10</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Identify writer seat</title>
+          <author>Dr. Jason Chandler</author>
+          <genre>Self-Help</genre>
+          <year>2010</year>
+        </book>
+        <book>
+          <title>Most value</title>
+          <author>Frank Simpson</author>
+          <genre>Biography</genre>
+          <year>1997</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Special educational needs teacher</title>
+      <company>Salinas Inc</company>
+    </employment>
+  </life>
+  <life id="L023">
+    <personalInfo>
+      <name>Rhonda Palmer</name>
+      <age>28</age>
+      <location>Ayersmouth</location>
+      <hobbies>audience, detail, money</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>c267e3e6-3d1e-4035-abf1-7c63353c7a64</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">1</deadline>
+        <status>Completed</status>
+        <progress percentage="94"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Christine Hebert</name>
+          <relation>Sibling</relation>
+          <age>71</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kimberly Hogan</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+        <friend>
+          <name>Tommy Pierce</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Joy Hutchinson</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Patrick Huffman</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Special educational needs teacher</title>
+      <company>Scott, Smith and Hunt</company>
+    </employment>
+  </life>
+  <life id="L024">
+    <personalInfo>
+      <name>Sandra Patton</name>
+      <age>27</age>
+      <location>North Elizabethfort</location>
+      <hobbies>program, month, loss</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f7c775af-f7d9-412c-9cf1-2cdc6079c7c2</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">9</deadline>
+        <status>Not Started</status>
+        <progress percentage="80"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Joseph Wells</name>
+          <relation>Spouse</relation>
+          <age>75</age>
+        </member>
+        <member>
+          <name>Vincent Brown</name>
+          <relation>Child</relation>
+          <age>40</age>
+        </member>
+        <member>
+          <name>Charlene Campbell</name>
+          <relation>Parent</relation>
+          <age>38</age>
+        </member>
+        <member>
+          <name>Danielle Chapman</name>
+          <relation>Sibling</relation>
+          <age>70</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kristie Williams</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+        <friend>
+          <name>Christine Wallace</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+        <friend>
+          <name>Mr. James Roth</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L025">
+    <personalInfo>
+      <name>Charles Medina</name>
+      <age>41</age>
+      <location>Christopherview</location>
+      <hobbies>surface, speak, everybody</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>ef7a237f-fd2b-45b0-ad0d-98228ac618e4</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>High</priority>
+        <deadline unit="months">6</deadline>
+        <status>In Progress</status>
+        <progress percentage="62"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Sheila Burns</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Museum education officer</title>
+      <company>Miller-Whitaker</company>
+    </employment>
+  </life>
+  <life id="L026">
+    <personalInfo>
+      <name>Scott Lambert</name>
+      <age>49</age>
+      <location>East Samuel</location>
+      <hobbies>lay, something, ask</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>d96b69db-4f4c-4d3d-9337-3b9730e2a2ed</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>High</priority>
+        <deadline unit="months">1</deadline>
+        <status>Completed</status>
+        <progress percentage="52"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Amanda Cruz</name>
+          <relation>Child</relation>
+          <age>54</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Christopher King</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>April Andrews</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Stephen Smith</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Advertising copywriter</title>
+      <company>Brown, Simmons and Bell</company>
+    </employment>
+  </life>
+  <life id="L027">
+    <personalInfo>
+      <name>Mike Ortiz</name>
+      <age>49</age>
+      <location>South Kayla</location>
+      <hobbies>sing, understand, thank</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f6097ea8-96a3-4eaf-b73d-d4b4751aceae</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">5</deadline>
+        <status>Completed</status>
+        <progress percentage="79"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Elizabeth Blankenship</name>
+          <relation>Sibling</relation>
+          <age>71</age>
+        </member>
+        <member>
+          <name>Curtis Torres</name>
+          <relation>Spouse</relation>
+          <age>71</age>
+        </member>
+        <member>
+          <name>Tammy Taylor</name>
+          <relation>Sibling</relation>
+          <age>70</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Renee Becker</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+        <friend>
+          <name>Richard Lambert MD</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+        <friend>
+          <name>Troy Campbell</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Now</title>
+          <author>Shirley Baxter</author>
+          <genre>Biography</genre>
+          <year>1994</year>
+        </book>
+        <book>
+          <title>Take describe</title>
+          <author>Natasha Mays</author>
+          <genre>Fiction</genre>
+          <year>2021</year>
+        </book>
+        <book>
+          <title>Expert least or</title>
+          <author>Andrew Hayes IV</author>
+          <genre>Biography</genre>
+          <year>2002</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Journalist, newspaper</title>
+      <company>Clark-King</company>
+    </employment>
+  </life>
+  <life id="L028">
+    <personalInfo>
+      <name>Jeremy Griffith</name>
+      <age>48</age>
+      <location>Jenniferhaven</location>
+      <hobbies>specific, bill, what</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>94b4495e-b281-4367-ada7-7814b64351be</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">5</deadline>
+        <status>Completed</status>
+        <progress percentage="45"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Sabrina Richardson</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Scientist, marine</title>
+      <company>Henderson, Smith and Carroll</company>
+    </employment>
+  </life>
+  <life id="L029">
+    <personalInfo>
+      <name>Karen Fischer</name>
+      <age>57</age>
+      <location>Hernandezland</location>
+      <hobbies>teacher, condition, agreement</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>8761fea3-ed32-4db5-9502-7b1012d21a16</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">12</deadline>
+        <status>Completed</status>
+        <progress percentage="9"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Christine Baxter</name>
+          <relation>Parent</relation>
+          <age>56</age>
+        </member>
+        <member>
+          <name>Michael Lee</name>
+          <relation>Spouse</relation>
+          <age>36</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Put our but</title>
+          <author>Matthew Hughes</author>
+          <genre>Self-Help</genre>
+          <year>2015</year>
+        </book>
+        <book>
+          <title>While serve</title>
+          <author>Kimberly Evans</author>
+          <genre>Self-Help</genre>
+          <year>1991</year>
+        </book>
+        <book>
+          <title>Surface miss</title>
+          <author>Christopher Logan</author>
+          <genre>Biography</genre>
+          <year>2002</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Illustrator</title>
+      <company>Flores-Carter</company>
+    </employment>
+  </life>
+  <life id="L030">
+    <personalInfo>
+      <name>Joseph Smith</name>
+      <age>40</age>
+      <location>Floreston</location>
+      <hobbies>top, nor, test</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>258e69b6-eaca-441f-b003-fbb5550e01eb</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">3</deadline>
+        <status>In Progress</status>
+        <progress percentage="29"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Jessica Bryant</name>
+          <relation>Parent</relation>
+          <age>44</age>
+        </member>
+        <member>
+          <name>Shelly Clay</name>
+          <relation>Sibling</relation>
+          <age>30</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Shelley Summers</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Amy Colon</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Producer, television/film/video</title>
+      <company>Anderson, Vaughn and Carpenter</company>
+    </employment>
+  </life>
+  <life id="L031">
+    <personalInfo>
+      <name>Kayla Green</name>
+      <age>64</age>
+      <location>Janetmouth</location>
+      <hobbies>ask, left, national</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>0a60dc00-16ed-4328-b13b-32105923f079</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>High</priority>
+        <deadline unit="months">11</deadline>
+        <status>In Progress</status>
+        <progress percentage="100"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Heidi Sanchez</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+        <friend>
+          <name>Erin Day</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+        <friend>
+          <name>Matthew Wilson</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jorge Roach</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Designer, furniture</title>
+      <company>Gilmore-Gonzalez</company>
+    </employment>
+  </life>
+  <life id="L032">
+    <personalInfo>
+      <name>Adam Silva</name>
+      <age>45</age>
+      <location>West Cynthiaberg</location>
+      <hobbies>pick, question, tonight</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f8dd5db9-bf13-41c5-89ca-bf2c93ffed90</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">1</deadline>
+        <status>Not Started</status>
+        <progress percentage="85"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Samantha Martin</name>
+          <relation>Parent</relation>
+          <age>28</age>
+        </member>
+        <member>
+          <name>Andrew Wise</name>
+          <relation>Parent</relation>
+          <age>42</age>
+        </member>
+        <member>
+          <name>Larry Carroll</name>
+          <relation>Spouse</relation>
+          <age>30</age>
+        </member>
+        <member>
+          <name>Bradley Riley</name>
+          <relation>Child</relation>
+          <age>28</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Joshua Frazier</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+        <friend>
+          <name>Bradley Lee</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>James Diaz</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Shelley Blackwell</name>
+          <yearsKnown>1</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Cultural occur</title>
+          <author>Stephanie Velasquez</author>
+          <genre>Biography</genre>
+          <year>2013</year>
+        </book>
+        <book>
+          <title>Glass wrong father</title>
+          <author>Alexandra Henderson</author>
+          <genre>Self-Help</genre>
+          <year>2007</year>
+        </book>
+        <book>
+          <title>Conference indicate thank</title>
+          <author>Jordan Stanley</author>
+          <genre>Self-Help</genre>
+          <year>2003</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L033">
+    <personalInfo>
+      <name>Lindsay Rodriguez</name>
+      <age>62</age>
+      <location>Christopherhaven</location>
+      <hobbies>go, role, thought</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>ba1aa1c6-02d5-4eab-ac19-80f55c11e597</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Low</priority>
+        <deadline unit="months">6</deadline>
+        <status>Completed</status>
+        <progress percentage="8"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Sally Molina</name>
+          <relation>Child</relation>
+          <age>72</age>
+        </member>
+        <member>
+          <name>Jasmine Graves</name>
+          <relation>Child</relation>
+          <age>28</age>
+        </member>
+        <member>
+          <name>Vanessa Fuentes</name>
+          <relation>Child</relation>
+          <age>64</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>One buy then</title>
+          <author>Nathaniel Ross</author>
+          <genre>Biography</genre>
+          <year>2001</year>
+        </book>
+        <book>
+          <title>Firm name collection oil</title>
+          <author>Mary Gibbs</author>
+          <genre>Non-Fiction</genre>
+          <year>2008</year>
+        </book>
+        <book>
+          <title>Smile skin pretty</title>
+          <author>Jeremy Dawson</author>
+          <genre>Biography</genre>
+          <year>1997</year>
+        </book>
+        <book>
+          <title>Push</title>
+          <author>Thomas Hall</author>
+          <genre>Fiction</genre>
+          <year>2000</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L034">
+    <personalInfo>
+      <name>Lisa Guerrero</name>
+      <age>62</age>
+      <location>Lawrenceburgh</location>
+      <hobbies>visit, yes, Democrat</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>6a8004d4-e643-4424-a450-3e6896a63780</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">6</deadline>
+        <status>In Progress</status>
+        <progress percentage="14"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Joshua Sloan</name>
+          <relation>Child</relation>
+          <age>41</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Christopher Mccoy</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Vincent Hernandez</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Employed</status>
+      <title>Retail merchandiser</title>
+      <company>Davis-Craig</company>
+    </employment>
+  </life>
+  <life id="L035">
+    <personalInfo>
+      <name>Justin Hughes</name>
+      <age>51</age>
+      <location>Joneshaven</location>
+      <hobbies>forward, should, can</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>b37d0fa3-f359-4a52-991e-448dca84e8a1</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Low</priority>
+        <deadline unit="months">3</deadline>
+        <status>In Progress</status>
+        <progress percentage="50"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Virginia Flores</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Subject politics</title>
+          <author>Tara Munoz</author>
+          <genre>Fiction</genre>
+          <year>2013</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L036">
+    <personalInfo>
+      <name>Derrick Jimenez</name>
+      <age>36</age>
+      <location>Port Michael</location>
+      <hobbies>teacher, continue, rule</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>ed104bec-2e05-43c9-bf62-a4db90d2dd84</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">5</deadline>
+        <status>In Progress</status>
+        <progress percentage="6"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Mrs. Kelly Gomez</name>
+          <relation>Child</relation>
+          <age>76</age>
+        </member>
+        <member>
+          <name>Ashley Rodriguez MD</name>
+          <relation>Child</relation>
+          <age>69</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Ricardo Zimmerman</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+        <friend>
+          <name>Laura Hunt</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+        <friend>
+          <name>Richard Larsen</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Fire there</title>
+          <author>Mark Hale</author>
+          <genre>Biography</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>See choice face</title>
+          <author>Chad Eaton</author>
+          <genre>Fiction</genre>
+          <year>2007</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L037">
+    <personalInfo>
+      <name>Rachel Perez</name>
+      <age>32</age>
+      <location>Robynville</location>
+      <hobbies>protect, mouth, perform</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f10a23dc-8278-48eb-b9b2-3c264823894d</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>High</priority>
+        <deadline unit="months">9</deadline>
+        <status>Not Started</status>
+        <progress percentage="95"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Lisa Martin</name>
+          <relation>Spouse</relation>
+          <age>66</age>
+        </member>
+        <member>
+          <name>Cynthia Trujillo</name>
+          <relation>Child</relation>
+          <age>59</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Sean Turner</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+        <friend>
+          <name>Heather Strickland</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+        <friend>
+          <name>Renee Gentry</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Unemployed</status>
+      <title>Manufacturing engineer</title>
+      <company>Tate-Baker</company>
+    </employment>
+  </life>
+  <life id="L038">
+    <personalInfo>
+      <name>Dylan Boyd</name>
+      <age>43</age>
+      <location>West Nicholas</location>
+      <hobbies>mean, throw, onto</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>ee9ac905-6a58-4216-9bd6-02c5259902fb</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">5</deadline>
+        <status>Not Started</status>
+        <progress percentage="59"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Jason Mason</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+        <friend>
+          <name>Haley Cooper</name>
+          <yearsKnown>10</yearsKnown>
+        </friend>
+        <friend>
+          <name>Randy Cervantes</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Writer bar</title>
+          <author>Charles Ramirez</author>
+          <genre>Biography</genre>
+          <year>2001</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Associate Professor</title>
+      <company>Hanna, Madden and Santos</company>
+    </employment>
+  </life>
+  <life id="L039">
+    <personalInfo>
+      <name>Harold Thompson</name>
+      <age>56</age>
+      <location>Parkhaven</location>
+      <hobbies>development, store, bad</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>e00bb427-7c09-4cb2-869c-e7355fe26c32</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>High</priority>
+        <deadline unit="months">9</deadline>
+        <status>Not Started</status>
+        <progress percentage="24"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Joseph Perry</name>
+          <relation>Parent</relation>
+          <age>27</age>
+        </member>
+        <member>
+          <name>Rhonda Young</name>
+          <relation>Sibling</relation>
+          <age>21</age>
+        </member>
+        <member>
+          <name>Glenda White</name>
+          <relation>Parent</relation>
+          <age>36</age>
+        </member>
+        <member>
+          <name>Brittany Terrell</name>
+          <relation>Spouse</relation>
+          <age>31</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Thomas Harris</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+  </life>
+  <life id="L040">
+    <personalInfo>
+      <name>Bobby Williams</name>
+      <age>43</age>
+      <location>Mathewburgh</location>
+      <hobbies>property, discussion, before</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>722e0097-2759-4d27-88d1-5427fa812553</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Low</priority>
+        <deadline unit="months">3</deadline>
+        <status>In Progress</status>
+        <progress percentage="2"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Robert Mccoy</name>
+          <relation>Sibling</relation>
+          <age>60</age>
+        </member>
+        <member>
+          <name>Alexander Price</name>
+          <relation>Child</relation>
+          <age>42</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Bradley Banks</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+        <friend>
+          <name>Susan Bell</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+        <friend>
+          <name>Andrew Hale</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+        <friend>
+          <name>Lauren Peterson</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+  </life>
+  <life id="L041">
+    <personalInfo>
+      <name>Ricardo Williams</name>
+      <age>32</age>
+      <location>South Deanland</location>
+      <hobbies>color, decision, must</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>2bb5c14c-0482-4742-abd7-a961b74c53f4</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Low</priority>
+        <deadline unit="months">7</deadline>
+        <status>Not Started</status>
+        <progress percentage="48"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Michael Maldonado</name>
+          <relation>Child</relation>
+          <age>35</age>
+        </member>
+        <member>
+          <name>Sherry Diaz</name>
+          <relation>Sibling</relation>
+          <age>18</age>
+        </member>
+        <member>
+          <name>John Campbell</name>
+          <relation>Sibling</relation>
+          <age>57</age>
+        </member>
+        <member>
+          <name>Brandi Walker</name>
+          <relation>Spouse</relation>
+          <age>56</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kyle Walker</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>James Gonzales</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+        <friend>
+          <name>Brandon Gaines</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Some game</title>
+          <author>Mr. Luis Wood DDS</author>
+          <genre>Non-Fiction</genre>
+          <year>2008</year>
+        </book>
+        <book>
+          <title>Wonder bring</title>
+          <author>Sarah Morgan</author>
+          <genre>Biography</genre>
+          <year>2003</year>
+        </book>
+        <book>
+          <title>Yet red</title>
+          <author>Thomas Hernandez</author>
+          <genre>Biography</genre>
+          <year>2014</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L042">
+    <personalInfo>
+      <name>Veronica Gonzalez</name>
+      <age>41</age>
+      <location>Christopherville</location>
+      <hobbies>Democrat, southern, assume</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>7ba0dadd-b179-4db5-89a4-a8cf281d4800</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Low</priority>
+        <deadline unit="months">7</deadline>
+        <status>In Progress</status>
+        <progress percentage="68"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Amanda Mcgee</name>
+          <relation>Spouse</relation>
+          <age>65</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Travis Romero</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Priscilla Smith</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Angela Ferguson</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>David Miller</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L043">
+    <personalInfo>
+      <name>Jessica Miller</name>
+      <age>64</age>
+      <location>Johnsonport</location>
+      <hobbies>kind, start, especially</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>0eca56d9-2ed5-4141-b193-b641c9bcfda7</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>High</priority>
+        <deadline unit="months">9</deadline>
+        <status>Completed</status>
+        <progress percentage="27"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Carol Woods</name>
+          <relation>Sibling</relation>
+          <age>53</age>
+        </member>
+        <member>
+          <name>Todd Nolan</name>
+          <relation>Spouse</relation>
+          <age>31</age>
+        </member>
+        <member>
+          <name>Kelsey Martin</name>
+          <relation>Spouse</relation>
+          <age>76</age>
+        </member>
+        <member>
+          <name>Louis Diaz</name>
+          <relation>Spouse</relation>
+          <age>63</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Career Mrs price letter</title>
+          <author>Heather Floyd</author>
+          <genre>Biography</genre>
+          <year>2023</year>
+        </book>
+        <book>
+          <title>Describe serve</title>
+          <author>Andrea Chambers</author>
+          <genre>Fiction</genre>
+          <year>1999</year>
+        </book>
+        <book>
+          <title>Fish knowledge</title>
+          <author>Lisa Johnson</author>
+          <genre>Self-Help</genre>
+          <year>2021</year>
+        </book>
+        <book>
+          <title>Before by</title>
+          <author>Kenneth Rosario</author>
+          <genre>Self-Help</genre>
+          <year>2000</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L044">
+    <personalInfo>
+      <name>Christy Alexander</name>
+      <age>43</age>
+      <location>Ryanland</location>
+      <hobbies>another, sea, charge</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f3cc0da5-8428-4e4e-a67a-204773be7409</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Low</priority>
+        <deadline unit="months">1</deadline>
+        <status>Not Started</status>
+        <progress percentage="78"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Nicole Cortez</name>
+          <relation>Spouse</relation>
+          <age>56</age>
+        </member>
+        <member>
+          <name>Zachary Cox</name>
+          <relation>Child</relation>
+          <age>35</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Structural engineer</title>
+      <company>Aguilar-Wilkinson</company>
+    </employment>
+  </life>
+  <life id="L045">
+    <personalInfo>
+      <name>Carlos Hill</name>
+      <age>36</age>
+      <location>Smithfurt</location>
+      <hobbies>window, score, number</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>3501fde7-a98b-4606-b52e-2d8b2abdd2b0</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">11</deadline>
+        <status>In Progress</status>
+        <progress percentage="26"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Victoria Perez</name>
+          <relation>Spouse</relation>
+          <age>45</age>
+        </member>
+        <member>
+          <name>Christine Kane</name>
+          <relation>Child</relation>
+          <age>64</age>
+        </member>
+        <member>
+          <name>Susan Jones</name>
+          <relation>Sibling</relation>
+          <age>78</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Edward Avila</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Willie Fuller</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Hospital doctor</title>
+      <company>Chavez Group</company>
+    </employment>
+  </life>
+  <life id="L046">
+    <personalInfo>
+      <name>Morgan Soto</name>
+      <age>31</age>
+      <location>New Timothybury</location>
+      <hobbies>once, admit, wear</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>c2784b24-fbec-4f1f-8647-1cc78fc574b6</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>High</priority>
+        <deadline unit="months">6</deadline>
+        <status>In Progress</status>
+        <progress percentage="37"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Alex Lucas</name>
+          <relation>Parent</relation>
+          <age>63</age>
+        </member>
+        <member>
+          <name>Teresa Mendez</name>
+          <relation>Parent</relation>
+          <age>54</age>
+        </member>
+        <member>
+          <name>Mark Gonzales</name>
+          <relation>Spouse</relation>
+          <age>49</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jessica Cannon</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Tyler Hubbard</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jose Boyd</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Citizen participant</title>
+          <author>Brandon Reed</author>
+          <genre>Fiction</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Its huge</title>
+          <author>Antonio Gamble</author>
+          <genre>Fiction</genre>
+          <year>1994</year>
+        </book>
+        <book>
+          <title>Say truth develop</title>
+          <author>Colin Taylor</author>
+          <genre>Biography</genre>
+          <year>2001</year>
+        </book>
+        <book>
+          <title>Store yeah manager</title>
+          <author>Calvin Brooks</author>
+          <genre>Self-Help</genre>
+          <year>2020</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L047">
+    <personalInfo>
+      <name>Mitchell Cross</name>
+      <age>38</age>
+      <location>Valdezview</location>
+      <hobbies>they, order, final</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>3bfad5b4-38a8-4ab0-98b2-f5da3bb08467</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">1</deadline>
+        <status>In Progress</status>
+        <progress percentage="15"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Juan Gibson</name>
+          <relation>Child</relation>
+          <age>27</age>
+        </member>
+        <member>
+          <name>Don Hernandez</name>
+          <relation>Child</relation>
+          <age>20</age>
+        </member>
+        <member>
+          <name>John Kent</name>
+          <relation>Spouse</relation>
+          <age>53</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>John Duncan</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Tricia Bennett</name>
+          <yearsKnown>1</yearsKnown>
+        </friend>
+        <friend>
+          <name>David Smith</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+  </life>
+  <life id="L048">
+    <personalInfo>
+      <name>Daniel Leach</name>
+      <age>34</age>
+      <location>Jackstad</location>
+      <hobbies>yourself, spend, brother</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>b58115d2-3a95-4820-a683-40a18b440a59</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">9</deadline>
+        <status>In Progress</status>
+        <progress percentage="49"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Monique Middleton</name>
+          <relation>Parent</relation>
+          <age>64</age>
+        </member>
+        <member>
+          <name>Melissa Warren</name>
+          <relation>Spouse</relation>
+          <age>32</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Brenda Watts</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L049">
+    <personalInfo>
+      <name>Robert Oneill</name>
+      <age>57</age>
+      <location>Davidside</location>
+      <hobbies>lose, somebody, radio</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>c8aba59d-847d-495a-a02a-df922f432e7c</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Low</priority>
+        <deadline unit="months">9</deadline>
+        <status>Not Started</status>
+        <progress percentage="34"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Amanda Garcia MD</name>
+          <relation>Spouse</relation>
+          <age>28</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Justin Salinas</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+        <friend>
+          <name>Miranda Wilkerson</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jennifer White</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L050">
+    <personalInfo>
+      <name>Jennifer Rhodes</name>
+      <age>53</age>
+      <location>Rodriguezview</location>
+      <hobbies>certainly, back, interest</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>fa476743-4883-4a1d-8df3-e4dcf0d72c5c</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Low</priority>
+        <deadline unit="months">2</deadline>
+        <status>In Progress</status>
+        <progress percentage="10"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>William Fleming</name>
+          <relation>Spouse</relation>
+          <age>80</age>
+        </member>
+        <member>
+          <name>Teresa Rogers</name>
+          <relation>Sibling</relation>
+          <age>34</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Receive difficult final</title>
+          <author>Mary Martin</author>
+          <genre>Biography</genre>
+          <year>2009</year>
+        </book>
+        <book>
+          <title>Why course</title>
+          <author>Audrey Watkins</author>
+          <genre>Fiction</genre>
+          <year>1998</year>
+        </book>
+        <book>
+          <title>Debate item think</title>
+          <author>Denise Parks</author>
+          <genre>Fiction</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>New difference a</title>
+          <author>Gordon Vance</author>
+          <genre>Fiction</genre>
+          <year>2005</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Veterinary surgeon</title>
+      <company>Jones, Baker and Fisher</company>
+    </employment>
+  </life>
+  <life id="L051">
+    <personalInfo>
+      <name>Kimberly Shea</name>
+      <age>50</age>
+      <location>Jonathanfurt</location>
+      <hobbies>choice, statement, smile</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>18fd1290-f880-4183-ac29-1f79ba1f53e3</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">11</deadline>
+        <status>Not Started</status>
+        <progress percentage="6"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Derrick Cohen</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Sarah Reeves</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Lindsay King</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Student</status>
+      <title>Dentist</title>
+      <company>Elliott Ltd</company>
+    </employment>
+  </life>
+  <life id="L052">
+    <personalInfo>
+      <name>Dawn Crawford</name>
+      <age>40</age>
+      <location>Paulfurt</location>
+      <hobbies>politics, kind, four</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>d4609072-fc93-41a1-b75a-9b7f7b208aef</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">6</deadline>
+        <status>In Progress</status>
+        <progress percentage="88"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Dr. Alan Long</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+        <friend>
+          <name>Miguel Jackson</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+        <friend>
+          <name>Lisa Graham</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Thomas Hale</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Employed</status>
+      <title>Engineer, biomedical</title>
+      <company>Shelton Inc</company>
+    </employment>
+  </life>
+  <life id="L053">
+    <personalInfo>
+      <name>Cheryl Freeman</name>
+      <age>64</age>
+      <location>Chambersfurt</location>
+      <hobbies>beautiful, energy, friend</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>b724ca5d-239e-432f-8623-9dbac8030d3f</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>High</priority>
+        <deadline unit="months">10</deadline>
+        <status>In Progress</status>
+        <progress percentage="12"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>David Olsen</name>
+          <relation>Parent</relation>
+          <age>80</age>
+        </member>
+        <member>
+          <name>Corey Page</name>
+          <relation>Sibling</relation>
+          <age>44</age>
+        </member>
+        <member>
+          <name>Sarah Garrett</name>
+          <relation>Child</relation>
+          <age>45</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Nicholas Hampton</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+        <friend>
+          <name>Scott Wilson</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Quality pressure boy</title>
+          <author>Tracy Avila</author>
+          <genre>Biography</genre>
+          <year>1999</year>
+        </book>
+        <book>
+          <title>Form begin easy word</title>
+          <author>Brittany Koch</author>
+          <genre>Fiction</genre>
+          <year>1996</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Financial risk analyst</title>
+      <company>Jackson-Williams</company>
+    </employment>
+  </life>
+  <life id="L054">
+    <personalInfo>
+      <name>Joshua Cox</name>
+      <age>53</age>
+      <location>South Robinfort</location>
+      <hobbies>star, story, me</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>b6e027ed-84a3-4bff-a40f-86b6ac951c27</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>High</priority>
+        <deadline unit="months">9</deadline>
+        <status>Completed</status>
+        <progress percentage="36"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Jessica Stewart</name>
+          <relation>Child</relation>
+          <age>28</age>
+        </member>
+        <member>
+          <name>Ashley Jones</name>
+          <relation>Parent</relation>
+          <age>62</age>
+        </member>
+        <member>
+          <name>Brenda Williams</name>
+          <relation>Spouse</relation>
+          <age>79</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>James Davis</name>
+          <yearsKnown>1</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jerry Sandoval</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Game parent</title>
+          <author>Valerie Miles</author>
+          <genre>Fiction</genre>
+          <year>2001</year>
+        </book>
+        <book>
+          <title>Reason officer</title>
+          <author>Ashlee Butler</author>
+          <genre>Self-Help</genre>
+          <year>1995</year>
+        </book>
+        <book>
+          <title>Country end</title>
+          <author>Mary Manning</author>
+          <genre>Biography</genre>
+          <year>2007</year>
+        </book>
+        <book>
+          <title>Miss still</title>
+          <author>Anthony Bowen</author>
+          <genre>Self-Help</genre>
+          <year>1997</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L055">
+    <personalInfo>
+      <name>Charles Jackson</name>
+      <age>65</age>
+      <location>Port Isaacland</location>
+      <hobbies>case, government, member</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>c65a9afa-21bf-4d2e-a966-846776c02e79</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">12</deadline>
+        <status>Completed</status>
+        <progress percentage="49"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Joseph Wagner</name>
+          <relation>Spouse</relation>
+          <age>50</age>
+        </member>
+        <member>
+          <name>Stephanie Clark</name>
+          <relation>Child</relation>
+          <age>60</age>
+        </member>
+        <member>
+          <name>Michael Mendoza</name>
+          <relation>Parent</relation>
+          <age>33</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Andrew Garcia</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Hope us so network</title>
+          <author>Aaron Clark</author>
+          <genre>Non-Fiction</genre>
+          <year>2002</year>
+        </book>
+        <book>
+          <title>Bit defense</title>
+          <author>Thomas Coleman</author>
+          <genre>Biography</genre>
+          <year>1991</year>
+        </book>
+        <book>
+          <title>Within national</title>
+          <author>Tabitha Jackson</author>
+          <genre>Biography</genre>
+          <year>2014</year>
+        </book>
+        <book>
+          <title>Manager step accept</title>
+          <author>Jessica Richardson</author>
+          <genre>Non-Fiction</genre>
+          <year>2014</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Recruitment consultant</title>
+      <company>Robinson LLC</company>
+    </employment>
+  </life>
+  <life id="L056">
+    <personalInfo>
+      <name>Sarah Gordon</name>
+      <age>38</age>
+      <location>New Keith</location>
+      <hobbies>day, serve, your</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>8bd5ea8c-04d9-4fcd-9766-f5b5bacbe151</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">4</deadline>
+        <status>In Progress</status>
+        <progress percentage="58"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Taylor Murphy</name>
+          <relation>Child</relation>
+          <age>71</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Brenda Johnson</name>
+          <yearsKnown>10</yearsKnown>
+        </friend>
+        <friend>
+          <name>Steve Lamb</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+        <friend>
+          <name>George Obrien</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Unemployed</status>
+      <title>Fitness centre manager</title>
+      <company>Kim Ltd</company>
+    </employment>
+  </life>
+  <life id="L057">
+    <personalInfo>
+      <name>Terri Ramos</name>
+      <age>50</age>
+      <location>Port Patrickburgh</location>
+      <hobbies>stage, model, attorney</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>a00ce7bb-9e51-414a-afa6-ddc135bb6f4c</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>High</priority>
+        <deadline unit="months">2</deadline>
+        <status>Not Started</status>
+        <progress percentage="65"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Christopher Turner</name>
+          <relation>Child</relation>
+          <age>40</age>
+        </member>
+        <member>
+          <name>Michael Jones</name>
+          <relation>Parent</relation>
+          <age>48</age>
+        </member>
+        <member>
+          <name>Richard Mcdaniel</name>
+          <relation>Parent</relation>
+          <age>38</age>
+        </member>
+        <member>
+          <name>Tracey Roberson</name>
+          <relation>Child</relation>
+          <age>23</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Nicholas Mcdaniel</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Gas effort</title>
+          <author>Larry Giles</author>
+          <genre>Biography</genre>
+          <year>1999</year>
+        </book>
+        <book>
+          <title>World hotel drive pass</title>
+          <author>Melissa Gonzalez</author>
+          <genre>Self-Help</genre>
+          <year>2013</year>
+        </book>
+        <book>
+          <title>Race baby fear</title>
+          <author>Mr. David Evans</author>
+          <genre>Fiction</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Could explain popular beautiful</title>
+          <author>Matthew Mccoy</author>
+          <genre>Biography</genre>
+          <year>1993</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Psychiatrist</title>
+      <company>Singh-Gibson</company>
+    </employment>
+  </life>
+  <life id="L058">
+    <personalInfo>
+      <name>Mr. Harold Martinez</name>
+      <age>53</age>
+      <location>Lake Brian</location>
+      <hobbies>perform, choice, interview</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>f07566d2-2d33-404f-b532-751e040f6fe8</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>High</priority>
+        <deadline unit="months">6</deadline>
+        <status>Not Started</status>
+        <progress percentage="16"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Kimberly Craig</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Terri Clark</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Need leg</title>
+          <author>Emily Anderson</author>
+          <genre>Non-Fiction</genre>
+          <year>2012</year>
+        </book>
+        <book>
+          <title>Capital long include hair</title>
+          <author>Russell Rhodes</author>
+          <genre>Non-Fiction</genre>
+          <year>1996</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L059">
+    <personalInfo>
+      <name>Jennifer Keith</name>
+      <age>37</age>
+      <location>Lake Stephanie</location>
+      <hobbies>country, individual, bar</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>4c9ecbda-2e1f-47c3-97bf-ad9d64730b4a</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Low</priority>
+        <deadline unit="months">9</deadline>
+        <status>Completed</status>
+        <progress percentage="14"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Ann Becker</name>
+          <yearsKnown>1</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Housing manager/officer</title>
+      <company>Stout-Vasquez</company>
+    </employment>
+  </life>
+  <life id="L060">
+    <personalInfo>
+      <name>Melissa Rodriguez</name>
+      <age>42</age>
+      <location>Parkerville</location>
+      <hobbies>could, line, former</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>e06826d4-5e17-4ba6-8535-77b25061d47c</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>High</priority>
+        <deadline unit="months">11</deadline>
+        <status>Completed</status>
+        <progress percentage="46"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Kimberly Webster</name>
+          <relation>Parent</relation>
+          <age>75</age>
+        </member>
+        <member>
+          <name>Shane Vasquez</name>
+          <relation>Child</relation>
+          <age>40</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kimberly Lopez</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Brian Smith</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Scott Long</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Michael Murphy</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Yourself nice toward</title>
+          <author>John Curry</author>
+          <genre>Biography</genre>
+          <year>2023</year>
+        </book>
+        <book>
+          <title>Ready story</title>
+          <author>Timothy Butler</author>
+          <genre>Non-Fiction</genre>
+          <year>1993</year>
+        </book>
+        <book>
+          <title>It next office</title>
+          <author>Tracy Gould</author>
+          <genre>Biography</genre>
+          <year>2004</year>
+        </book>
+        <book>
+          <title>None everyone quite</title>
+          <author>Jessica Diaz</author>
+          <genre>Self-Help</genre>
+          <year>2016</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L061">
+    <personalInfo>
+      <name>Chris Rose</name>
+      <age>49</age>
+      <location>Lake Teresahaven</location>
+      <hobbies>nature, land, base</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>138c8ee6-1e8a-4bc8-a51b-f4c660a152f1</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">6</deadline>
+        <status>Not Started</status>
+        <progress percentage="25"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Maria Anderson</name>
+          <relation>Sibling</relation>
+          <age>57</age>
+        </member>
+        <member>
+          <name>Connor Lawrence</name>
+          <relation>Spouse</relation>
+          <age>66</age>
+        </member>
+        <member>
+          <name>David Cowan</name>
+          <relation>Spouse</relation>
+          <age>46</age>
+        </member>
+        <member>
+          <name>Amber Smith</name>
+          <relation>Sibling</relation>
+          <age>76</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Kelly Graham</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+        <friend>
+          <name>Laura Marshall</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Brenda Foster</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Tiffany Watson</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L062">
+    <personalInfo>
+      <name>John Rodriguez</name>
+      <age>40</age>
+      <location>West Angelamouth</location>
+      <hobbies>information, specific, all</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>2b722b4d-abc7-4f8c-9d49-54b585aa8a14</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">10</deadline>
+        <status>In Progress</status>
+        <progress percentage="98"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>James Mckinney</name>
+          <relation>Parent</relation>
+          <age>67</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+  </life>
+  <life id="L063">
+    <personalInfo>
+      <name>Victoria Smith</name>
+      <age>32</age>
+      <location>West Morganstad</location>
+      <hobbies>heart, tree, center</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>fc7ad5c9-4766-4ac9-94cc-be1d91bf51cb</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">2</deadline>
+        <status>In Progress</status>
+        <progress percentage="71"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Carol Jenkins</name>
+          <relation>Sibling</relation>
+          <age>31</age>
+        </member>
+        <member>
+          <name>John Lucas</name>
+          <relation>Child</relation>
+          <age>55</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Earl Anderson</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Debbie Johnson</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Larry Jacobs</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Hospital pharmacist</title>
+      <company>Rivas, Murphy and Smith</company>
+    </employment>
+  </life>
+  <life id="L064">
+    <personalInfo>
+      <name>Eric Scott</name>
+      <age>64</age>
+      <location>Georgehaven</location>
+      <hobbies>side, democratic, recent</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>4397bdcf-4b8a-479b-b70f-a87bab5e9132</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>Low</priority>
+        <deadline unit="months">1</deadline>
+        <status>Completed</status>
+        <progress percentage="77"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Nichole Cummings</name>
+          <relation>Child</relation>
+          <age>27</age>
+        </member>
+        <member>
+          <name>Thomas Campos MD</name>
+          <relation>Spouse</relation>
+          <age>62</age>
+        </member>
+        <member>
+          <name>Jessica Huang</name>
+          <relation>Spouse</relation>
+          <age>31</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jesse Simmons</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+        <friend>
+          <name>Maria White</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Local hard</title>
+          <author>Laurie Lloyd</author>
+          <genre>Non-Fiction</genre>
+          <year>1994</year>
+        </book>
+        <book>
+          <title>Involve the it</title>
+          <author>Anna Murillo</author>
+          <genre>Fiction</genre>
+          <year>2011</year>
+        </book>
+        <book>
+          <title>Lay care</title>
+          <author>Mckenzie Thompson</author>
+          <genre>Self-Help</genre>
+          <year>2007</year>
+        </book>
+        <book>
+          <title>Support fill decision</title>
+          <author>Nicole Soto</author>
+          <genre>Non-Fiction</genre>
+          <year>2002</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Diagnostic radiographer</title>
+      <company>Williams LLC</company>
+    </employment>
+  </life>
+  <life id="L065">
+    <personalInfo>
+      <name>Carol Stevens</name>
+      <age>37</age>
+      <location>Crystalshire</location>
+      <hobbies>part, receive, option</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>34f9e65b-b5f3-488a-951d-3dae49e0c148</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Low</priority>
+        <deadline unit="months">2</deadline>
+        <status>In Progress</status>
+        <progress percentage="57"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+  </life>
+  <life id="L066">
+    <personalInfo>
+      <name>John Bush</name>
+      <age>50</age>
+      <location>Port Lindsey</location>
+      <hobbies>sell, into, my</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>024880fd-bc87-48ea-9ba3-5c700410d5ab</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">8</deadline>
+        <status>In Progress</status>
+        <progress percentage="13"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Adam Brown</name>
+          <relation>Spouse</relation>
+          <age>61</age>
+        </member>
+        <member>
+          <name>Sarah Cohen</name>
+          <relation>Spouse</relation>
+          <age>31</age>
+        </member>
+        <member>
+          <name>Robert Stevenson</name>
+          <relation>Spouse</relation>
+          <age>28</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Virginia Douglas</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>James Lee</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Paul Morales</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Employed</status>
+      <title>Systems developer</title>
+      <company>Carroll-Figueroa</company>
+    </employment>
+  </life>
+  <life id="L067">
+    <personalInfo>
+      <name>Carrie Johnson</name>
+      <age>21</age>
+      <location>East Matthewville</location>
+      <hobbies>example, reduce, course</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>74591cbb-b374-4101-8b64-89c75802b5bf</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">11</deadline>
+        <status>Not Started</status>
+        <progress percentage="9"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Karen Barry</name>
+          <relation>Sibling</relation>
+          <age>77</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Author plan</title>
+          <author>Joshua Welch</author>
+          <genre>Biography</genre>
+          <year>2022</year>
+        </book>
+        <book>
+          <title>Music pretty true</title>
+          <author>Christopher Little</author>
+          <genre>Self-Help</genre>
+          <year>2008</year>
+        </book>
+        <book>
+          <title>Brother cell person</title>
+          <author>Samantha Serrano</author>
+          <genre>Fiction</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Most always part</title>
+          <author>Amber Harmon</author>
+          <genre>Self-Help</genre>
+          <year>1995</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L068">
+    <personalInfo>
+      <name>Brittney Phillips</name>
+      <age>47</age>
+      <location>West Douglas</location>
+      <hobbies>eat, blood, Republican</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>9b6d2abd-91b3-465d-8272-847674455fe8</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">5</deadline>
+        <status>Completed</status>
+        <progress percentage="24"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Austin Ingram</name>
+          <relation>Parent</relation>
+          <age>77</age>
+        </member>
+        <member>
+          <name>Diana Hood</name>
+          <relation>Spouse</relation>
+          <age>45</age>
+        </member>
+        <member>
+          <name>Zachary Barnes</name>
+          <relation>Child</relation>
+          <age>60</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Necessary realize watch</title>
+          <author>Gabriel Adams</author>
+          <genre>Self-Help</genre>
+          <year>2004</year>
+        </book>
+        <book>
+          <title>Mission pretty reality right</title>
+          <author>Brent Oconnor</author>
+          <genre>Self-Help</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Among nice</title>
+          <author>John Norris</author>
+          <genre>Biography</genre>
+          <year>2006</year>
+        </book>
+        <book>
+          <title>Throw partner teach</title>
+          <author>Rhonda Thompson</author>
+          <genre>Self-Help</genre>
+          <year>2020</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L069">
+    <personalInfo>
+      <name>Julie Flowers</name>
+      <age>49</age>
+      <location>Joelshire</location>
+      <hobbies>unit, trip, hear</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>db7099c8-6ee6-4890-8680-57853fb80474</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Low</priority>
+        <deadline unit="months">2</deadline>
+        <status>Completed</status>
+        <progress percentage="9"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Kimberly Guzman</name>
+          <relation>Sibling</relation>
+          <age>66</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Stephanie Hamilton</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jacqueline Garcia</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+        <friend>
+          <name>James Wallace</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Tax current reflect</title>
+          <author>Patrick Stevens</author>
+          <genre>Fiction</genre>
+          <year>2015</year>
+        </book>
+        <book>
+          <title>Skill wind</title>
+          <author>Priscilla Walters</author>
+          <genre>Fiction</genre>
+          <year>2007</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Furniture conservator/restorer</title>
+      <company>Warren Inc</company>
+    </employment>
+  </life>
+  <life id="L070">
+    <personalInfo>
+      <name>Juan Garcia</name>
+      <age>65</age>
+      <location>New Andre</location>
+      <hobbies>hot, thousand, international</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>17eee9fb-bb69-42d7-bef6-f81933733685</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">1</deadline>
+        <status>In Progress</status>
+        <progress percentage="59"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Jason Wilson</name>
+          <relation>Sibling</relation>
+          <age>71</age>
+        </member>
+        <member>
+          <name>Joanne Jones</name>
+          <relation>Child</relation>
+          <age>63</age>
+        </member>
+        <member>
+          <name>Lori Beltran</name>
+          <relation>Spouse</relation>
+          <age>61</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Wanda Pittman</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+        <friend>
+          <name>Zachary Hahn</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+        <friend>
+          <name>Ryan Rowe</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+        <friend>
+          <name>Michelle Giles</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Baby note week</title>
+          <author>Katie Rios</author>
+          <genre>Fiction</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Top per</title>
+          <author>Colleen Avila</author>
+          <genre>Biography</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Affect skin edge</title>
+          <author>Susan Butler</author>
+          <genre>Biography</genre>
+          <year>2013</year>
+        </book>
+        <book>
+          <title>Lawyer training option</title>
+          <author>Jonathan Pacheco</author>
+          <genre>Biography</genre>
+          <year>1999</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Student</status>
+      <title>Health and safety adviser</title>
+      <company>Hardy-Carey</company>
+    </employment>
+  </life>
+  <life id="L071">
+    <personalInfo>
+      <name>Lance Cortez II</name>
+      <age>35</age>
+      <location>Torreschester</location>
+      <hobbies>seem, person, environmental</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>aac11dca-2c0e-4608-9fb7-493e64abb75c</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>High</priority>
+        <deadline unit="months">9</deadline>
+        <status>Not Started</status>
+        <progress percentage="70"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Darlene Morrison</name>
+          <relation>Spouse</relation>
+          <age>18</age>
+        </member>
+        <member>
+          <name>Rachel Brewer</name>
+          <relation>Child</relation>
+          <age>32</age>
+        </member>
+        <member>
+          <name>Blake House</name>
+          <relation>Sibling</relation>
+          <age>20</age>
+        </member>
+        <member>
+          <name>Regina Fuller</name>
+          <relation>Spouse</relation>
+          <age>27</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Engineer, electrical</title>
+      <company>Lopez, Jones and Oconnor</company>
+    </employment>
+  </life>
+  <life id="L072">
+    <personalInfo>
+      <name>Jonathan Thompson</name>
+      <age>21</age>
+      <location>New Katelyn</location>
+      <hobbies>least, than, model</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>d52de593-cecb-46c1-ab8c-b1d1115741c3</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>High</priority>
+        <deadline unit="months">12</deadline>
+        <status>In Progress</status>
+        <progress percentage="85"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Heather Martin</name>
+          <relation>Child</relation>
+          <age>59</age>
+        </member>
+        <member>
+          <name>Sharon Garner</name>
+          <relation>Sibling</relation>
+          <age>49</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Theme park manager</title>
+      <company>Cummings, Hughes and Benson</company>
+    </employment>
+  </life>
+  <life id="L073">
+    <personalInfo>
+      <name>Zachary Moore</name>
+      <age>27</age>
+      <location>Andreamouth</location>
+      <hobbies>generation, wait, buy</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>30c7be8e-0296-486e-a672-179174504093</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>High</priority>
+        <deadline unit="months">1</deadline>
+        <status>Completed</status>
+        <progress percentage="6"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Election city</title>
+          <author>Frances Hill</author>
+          <genre>Self-Help</genre>
+          <year>2012</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Interior and spatial designer</title>
+      <company>Meadows-English</company>
+    </employment>
+  </life>
+  <life id="L074">
+    <personalInfo>
+      <name>Mary Hernandez</name>
+      <age>20</age>
+      <location>Doyleborough</location>
+      <hobbies>culture, likely, meet</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>04c45e2a-c883-48eb-bc0f-72f1107941f7</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">1</deadline>
+        <status>In Progress</status>
+        <progress percentage="55"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Alyssa Reeves</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Edward Gomez</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L075">
+    <personalInfo>
+      <name>Alexis Gonzalez</name>
+      <age>56</age>
+      <location>North Matthewtown</location>
+      <hobbies>two, culture, only</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>dcd20945-ae57-455c-8b87-665e6142973a</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">6</deadline>
+        <status>In Progress</status>
+        <progress percentage="80"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Jessica Harmon</name>
+          <relation>Sibling</relation>
+          <age>74</age>
+        </member>
+        <member>
+          <name>Katherine Caldwell</name>
+          <relation>Spouse</relation>
+          <age>36</age>
+        </member>
+        <member>
+          <name>Ann Garza</name>
+          <relation>Child</relation>
+          <age>73</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Nice course southern</title>
+          <author>Shane Thomas</author>
+          <genre>Fiction</genre>
+          <year>1994</year>
+        </book>
+        <book>
+          <title>Large cold little</title>
+          <author>Scott Smith</author>
+          <genre>Self-Help</genre>
+          <year>2000</year>
+        </book>
+        <book>
+          <title>Become assume</title>
+          <author>James Chapman</author>
+          <genre>Non-Fiction</genre>
+          <year>2010</year>
+        </book>
+        <book>
+          <title>Tree blood piece</title>
+          <author>Alison Jones</author>
+          <genre>Biography</genre>
+          <year>2008</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Travel agency manager</title>
+      <company>Hale Ltd</company>
+    </employment>
+  </life>
+  <life id="L076">
+    <personalInfo>
+      <name>Russell Cook</name>
+      <age>29</age>
+      <location>Jonesberg</location>
+      <hobbies>worker, special, simple</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>3bbed4d5-074b-4277-89fd-91556a6398ba</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">5</deadline>
+        <status>Not Started</status>
+        <progress percentage="0"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Danny Dillon</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+        <friend>
+          <name>Erica Lloyd</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L077">
+    <personalInfo>
+      <name>Jeffrey Nielsen</name>
+      <age>48</age>
+      <location>Christopherton</location>
+      <hobbies>doctor, rather, as</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>4b063dd6-2d85-4ca6-9354-dd9b6b270038</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">10</deadline>
+        <status>Completed</status>
+        <progress percentage="85"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Alyssa Singh</name>
+          <relation>Child</relation>
+          <age>43</age>
+        </member>
+        <member>
+          <name>Erica Brown</name>
+          <relation>Spouse</relation>
+          <age>34</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Nurse, mental health</title>
+      <company>Brown-Lawrence</company>
+    </employment>
+  </life>
+  <life id="L078">
+    <personalInfo>
+      <name>Amanda Fowler</name>
+      <age>57</age>
+      <location>Julieburgh</location>
+      <hobbies>lot, hold, add</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>88090b7f-2a6d-4f9c-8688-196a3006d6d7</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">4</deadline>
+        <status>Completed</status>
+        <progress percentage="63"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Jennifer Carter</name>
+          <relation>Sibling</relation>
+          <age>73</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jennifer Martin</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+        <friend>
+          <name>Stephanie Davis</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Philip Steele</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Timothy Perez</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L079">
+    <personalInfo>
+      <name>Sabrina Schneider</name>
+      <age>63</age>
+      <location>Johnfort</location>
+      <hobbies>couple, citizen, sit</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>79bac225-b2fa-40b5-ac4b-a058ba4aed3b</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Low</priority>
+        <deadline unit="months">1</deadline>
+        <status>Not Started</status>
+        <progress percentage="26"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Jason Rodgers</name>
+          <relation>Sibling</relation>
+          <age>76</age>
+        </member>
+        <member>
+          <name>Walter Stein</name>
+          <relation>Parent</relation>
+          <age>72</age>
+        </member>
+        <member>
+          <name>Brenda Vaughn</name>
+          <relation>Parent</relation>
+          <age>33</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Thomas Clark</name>
+          <yearsKnown>1</yearsKnown>
+        </friend>
+        <friend>
+          <name>Pamela Thornton</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Tracey Smith</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L080">
+    <personalInfo>
+      <name>Elaine Luna</name>
+      <age>41</age>
+      <location>Gilbertburgh</location>
+      <hobbies>generation, nature, stand</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>05bf2b0b-3e12-4421-bf1c-6af29e27087d</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">5</deadline>
+        <status>Completed</status>
+        <progress percentage="90"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Linda Cook</name>
+          <relation>Sibling</relation>
+          <age>32</age>
+        </member>
+        <member>
+          <name>Eric Chung</name>
+          <relation>Sibling</relation>
+          <age>55</age>
+        </member>
+        <member>
+          <name>Heather Ibarra MD</name>
+          <relation>Spouse</relation>
+          <age>39</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Few claim over</title>
+          <author>Kristin Richardson</author>
+          <genre>Biography</genre>
+          <year>2020</year>
+        </book>
+        <book>
+          <title>Front page wrong</title>
+          <author>Eric Long</author>
+          <genre>Self-Help</genre>
+          <year>2015</year>
+        </book>
+        <book>
+          <title>Research indicate method</title>
+          <author>John Nicholson</author>
+          <genre>Non-Fiction</genre>
+          <year>2022</year>
+        </book>
+        <book>
+          <title>Theory article affect which</title>
+          <author>Theresa Johnson</author>
+          <genre>Non-Fiction</genre>
+          <year>2016</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Ceramics designer</title>
+      <company>Hendrix LLC</company>
+    </employment>
+  </life>
+  <life id="L081">
+    <personalInfo>
+      <name>David Fleming</name>
+      <age>36</age>
+      <location>South Randymouth</location>
+      <hobbies>expert, crime, future</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>ce13e2b1-9500-4336-9dc2-dc73aa9bd4d7</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>Low</priority>
+        <deadline unit="months">10</deadline>
+        <status>Not Started</status>
+        <progress percentage="75"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Cameron Perkins</name>
+          <yearsKnown>16</yearsKnown>
+        </friend>
+        <friend>
+          <name>Luis Day</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Carla Humphrey</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Church employee</title>
+          <author>Dean Moore</author>
+          <genre>Non-Fiction</genre>
+          <year>2020</year>
+        </book>
+        <book>
+          <title>Must finally</title>
+          <author>Sharon Bryant</author>
+          <genre>Self-Help</genre>
+          <year>1993</year>
+        </book>
+        <book>
+          <title>Beautiful level impact</title>
+          <author>Angel Garcia</author>
+          <genre>Self-Help</genre>
+          <year>1992</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Engineer, chemical</title>
+      <company>Thompson-Lyons</company>
+    </employment>
+  </life>
+  <life id="L082">
+    <personalInfo>
+      <name>William Fields</name>
+      <age>43</age>
+      <location>Samanthahaven</location>
+      <hobbies>say, program, soldier</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>7e9d648c-a3b7-475c-bf23-5a3893c9375a</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">8</deadline>
+        <status>Completed</status>
+        <progress percentage="17"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Jennifer Flores</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+        <friend>
+          <name>Bethany Matthews</name>
+          <yearsKnown>13</yearsKnown>
+        </friend>
+        <friend>
+          <name>Julie Ramirez</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Kelly Chung</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L083">
+    <personalInfo>
+      <name>Amber Willis</name>
+      <age>29</age>
+      <location>Port Andrew</location>
+      <hobbies>customer, name, prove</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>cb4c9ca6-f4a7-4e12-bfce-fd462cdac7dc</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>High</priority>
+        <deadline unit="months">1</deadline>
+        <status>Completed</status>
+        <progress percentage="59"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Michelle Hall</name>
+          <relation>Parent</relation>
+          <age>63</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Tanya Rodriguez</name>
+          <yearsKnown>2</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Candidate available</title>
+          <author>Michael Huynh</author>
+          <genre>Fiction</genre>
+          <year>2022</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L084">
+    <personalInfo>
+      <name>Melissa Ford</name>
+      <age>29</age>
+      <location>West Shelby</location>
+      <hobbies>fear, just, south</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>fd8d5ebe-b22a-4801-b65e-3abe7f6825d4</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>Low</priority>
+        <deadline unit="months">12</deadline>
+        <status>Completed</status>
+        <progress percentage="81"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Member leave</title>
+          <author>Michael Smith</author>
+          <genre>Fiction</genre>
+          <year>1998</year>
+        </book>
+        <book>
+          <title>According measure hundred</title>
+          <author>Steve Watkins</author>
+          <genre>Fiction</genre>
+          <year>1995</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Learning mentor</title>
+      <company>Barrett, Bonilla and Pittman</company>
+    </employment>
+  </life>
+  <life id="L085">
+    <personalInfo>
+      <name>Jason Randolph</name>
+      <age>46</age>
+      <location>Matthewborough</location>
+      <hobbies>recognize, along, later</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>8504a84b-4d7e-41d6-bb79-1107d6235966</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Low</priority>
+        <deadline unit="months">7</deadline>
+        <status>Not Started</status>
+        <progress percentage="67"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Michael Nguyen</name>
+          <relation>Parent</relation>
+          <age>46</age>
+        </member>
+        <member>
+          <name>Patrick Shaffer</name>
+          <relation>Child</relation>
+          <age>49</age>
+        </member>
+        <member>
+          <name>Melissa Mills</name>
+          <relation>Sibling</relation>
+          <age>42</age>
+        </member>
+        <member>
+          <name>Wesley Stewart</name>
+          <relation>Sibling</relation>
+          <age>65</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Education officer, community</title>
+      <company>Rodriguez-Bell</company>
+    </employment>
+  </life>
+  <life id="L086">
+    <personalInfo>
+      <name>Christopher Jackson</name>
+      <age>25</age>
+      <location>Brianside</location>
+      <hobbies>produce, short, effect</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>4b425de2-a5ff-4234-b751-8ff7ce56ff06</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Low</priority>
+        <deadline unit="months">2</deadline>
+        <status>In Progress</status>
+        <progress percentage="57"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>High-protein</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Heather Castro</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Employed</status>
+      <title>Diagnostic radiographer</title>
+      <company>Adams-Green</company>
+    </employment>
+  </life>
+  <life id="L087">
+    <personalInfo>
+      <name>Garrett Ross</name>
+      <age>25</age>
+      <location>New Dawn</location>
+      <hobbies>realize, reach, many</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>fe07897e-18d5-4636-ab49-7be84e9f865e</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>High</priority>
+        <deadline unit="months">6</deadline>
+        <status>Completed</status>
+        <progress percentage="100"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Brian Morgan</name>
+          <relation>Spouse</relation>
+          <age>50</age>
+        </member>
+        <member>
+          <name>Kayla Huffman</name>
+          <relation>Child</relation>
+          <age>69</age>
+        </member>
+        <member>
+          <name>Darren Hudson</name>
+          <relation>Parent</relation>
+          <age>38</age>
+        </member>
+        <member>
+          <name>Derek Wilson</name>
+          <relation>Child</relation>
+          <age>18</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Mark Smith</name>
+          <yearsKnown>15</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+  </life>
+  <life id="L088">
+    <personalInfo>
+      <name>Kari Armstrong</name>
+      <age>47</age>
+      <location>Hickston</location>
+      <hobbies>from, west, without</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>b3712fc4-054c-4519-b248-1f26ce2674d3</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">10</deadline>
+        <status>Completed</status>
+        <progress percentage="90"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Mary Parrish</name>
+          <relation>Parent</relation>
+          <age>63</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Brittany Kennedy</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Unemployed</status>
+      <title>Paramedic</title>
+      <company>Jordan-Pittman</company>
+    </employment>
+  </life>
+  <life id="L089">
+    <personalInfo>
+      <name>Patrick Salas</name>
+      <age>23</age>
+      <location>Lake Brittanyfort</location>
+      <hobbies>however, necessary, should</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>aa7173be-9021-4ac6-b99f-9973e830b86a</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>High</priority>
+        <deadline unit="months">8</deadline>
+        <status>Not Started</status>
+        <progress percentage="96"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Katherine Brown</name>
+          <relation>Sibling</relation>
+          <age>49</age>
+        </member>
+        <member>
+          <name>Tasha Evans</name>
+          <relation>Child</relation>
+          <age>44</age>
+        </member>
+        <member>
+          <name>Nicholas Harris</name>
+          <relation>Sibling</relation>
+          <age>40</age>
+        </member>
+        <member>
+          <name>Amber Rivera</name>
+          <relation>Parent</relation>
+          <age>46</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Mrs. Jessica Butler MD</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Abigail Garner</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+        <friend>
+          <name>Cathy Mullen</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Mary Jackson</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>We heavy</title>
+          <author>Heidi Schultz</author>
+          <genre>Non-Fiction</genre>
+          <year>1996</year>
+        </book>
+        <book>
+          <title>Soon fall</title>
+          <author>Casey Davis</author>
+          <genre>Self-Help</genre>
+          <year>2013</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Unemployed</status>
+      <title>Claims inspector/assessor</title>
+      <company>Hopkins-Sullivan</company>
+    </employment>
+  </life>
+  <life id="L090">
+    <personalInfo>
+      <name>Chloe Lopez</name>
+      <age>42</age>
+      <location>Kaiserfurt</location>
+      <hobbies>role, site, point</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>7ce1dc3a-fced-4546-a574-9580d11352e4</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">1</deadline>
+        <status>Not Started</status>
+        <progress percentage="6"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>John Richardson</name>
+          <relation>Sibling</relation>
+          <age>64</age>
+        </member>
+        <member>
+          <name>Mr. John White</name>
+          <relation>Sibling</relation>
+          <age>61</age>
+        </member>
+        <member>
+          <name>Richard Haynes</name>
+          <relation>Sibling</relation>
+          <age>46</age>
+        </member>
+        <member>
+          <name>Thomas Rogers</name>
+          <relation>Sibling</relation>
+          <age>79</age>
+        </member>
+      </family>
+      <friends/>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Morning indicate together</title>
+          <author>Rebecca Carr</author>
+          <genre>Self-Help</genre>
+          <year>1994</year>
+        </book>
+        <book>
+          <title>Store protect know</title>
+          <author>James Robinson</author>
+          <genre>Self-Help</genre>
+          <year>1992</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L091">
+    <personalInfo>
+      <name>Danielle Stewart</name>
+      <age>57</age>
+      <location>Williamport</location>
+      <hobbies>rule, have, glass</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>109e2392-2778-4d3c-a9b4-8d7c80124c9f</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>High</priority>
+        <deadline unit="months">7</deadline>
+        <status>In Progress</status>
+        <progress percentage="7"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Crystal Myers</name>
+          <relation>Child</relation>
+          <age>71</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Melissa Gonzalez</name>
+          <yearsKnown>11</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jeremy Simpson</name>
+          <yearsKnown>12</yearsKnown>
+        </friend>
+        <friend>
+          <name>Amanda Watson</name>
+          <yearsKnown>6</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Fight force available</title>
+          <author>James Davis</author>
+          <genre>Fiction</genre>
+          <year>1997</year>
+        </book>
+        <book>
+          <title>Plan weight</title>
+          <author>Jeffrey Parker</author>
+          <genre>Biography</genre>
+          <year>1993</year>
+        </book>
+        <book>
+          <title>According enjoy hair</title>
+          <author>Eduardo Mcdaniel</author>
+          <genre>Biography</genre>
+          <year>2007</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L092">
+    <personalInfo>
+      <name>Tim Jennings</name>
+      <age>44</age>
+      <location>Dennisstad</location>
+      <hobbies>will, when, degree</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>e90ee3b7-f2a5-44bd-8a26-22331a5ccd6d</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">5</deadline>
+        <status>Not Started</status>
+        <progress percentage="14"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Balanced</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Natasha Bennett</name>
+          <relation>Child</relation>
+          <age>33</age>
+        </member>
+        <member>
+          <name>Tracy Matthews</name>
+          <relation>Sibling</relation>
+          <age>39</age>
+        </member>
+        <member>
+          <name>Douglas Thomas</name>
+          <relation>Spouse</relation>
+          <age>47</age>
+        </member>
+        <member>
+          <name>Nicole Thomas</name>
+          <relation>Child</relation>
+          <age>50</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Amanda Wheeler</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Amanda Lawrence</name>
+          <yearsKnown>17</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Recruitment consultant</title>
+      <company>Ramirez, Williams and Velazquez</company>
+    </employment>
+  </life>
+  <life id="L093">
+    <personalInfo>
+      <name>Kimberly Edwards</name>
+      <age>60</age>
+      <location>Nguyenview</location>
+      <hobbies>training, will, see</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>bd1d1ac5-170e-4de6-bf89-7b7a8749729a</id>
+        <name>Travel Abroad</name>
+        <description>Plan and go on an international trip to experience a new culture.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">10</deadline>
+        <status>In Progress</status>
+        <progress percentage="83"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Cheryl Thompson</name>
+          <relation>Spouse</relation>
+          <age>51</age>
+        </member>
+        <member>
+          <name>Jesus Williams</name>
+          <relation>Child</relation>
+          <age>43</age>
+        </member>
+        <member>
+          <name>Stephen Kelly</name>
+          <relation>Spouse</relation>
+          <age>66</age>
+        </member>
+        <member>
+          <name>Elizabeth Norris</name>
+          <relation>Sibling</relation>
+          <age>21</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Jeffrey Kelly</name>
+          <yearsKnown>3</yearsKnown>
+        </friend>
+        <friend>
+          <name>Ruben Berry</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Student</status>
+      <title>Barrister's clerk</title>
+      <company>Robbins-Caldwell</company>
+    </employment>
+  </life>
+  <life id="L094">
+    <personalInfo>
+      <name>Jonathan Ali</name>
+      <age>56</age>
+      <location>Port Larry</location>
+      <hobbies>share, tax, data</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>9f329395-3c41-4dde-8811-fc0785a373d8</id>
+        <name>Read More</name>
+        <description>Read at least one book per month across different genres.</description>
+        <priority>Low</priority>
+        <deadline unit="months">5</deadline>
+        <status>In Progress</status>
+        <progress percentage="27"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Jeremy Harrington</name>
+          <relation>Sibling</relation>
+          <age>28</age>
+        </member>
+        <member>
+          <name>Jennifer Walker</name>
+          <relation>Child</relation>
+          <age>47</age>
+        </member>
+        <member>
+          <name>Jesus Riggs</name>
+          <relation>Parent</relation>
+          <age>54</age>
+        </member>
+        <member>
+          <name>Laura Miller PhD</name>
+          <relation>Parent</relation>
+          <age>67</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Marie Espinoza</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Short imagine wish</title>
+          <author>Jimmy Neal</author>
+          <genre>Non-Fiction</genre>
+          <year>2005</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L095">
+    <personalInfo>
+      <name>Joel Barrera</name>
+      <age>24</age>
+      <location>Davidstad</location>
+      <hobbies>speak, decade, or</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>dba5fc5b-d60b-43ba-b6f7-f9dc67b576c5</id>
+        <name>Improve Sleep</name>
+        <description>Adopt a consistent sleep schedule and track nightly sleep quality.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">9</deadline>
+        <status>In Progress</status>
+        <progress percentage="22"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Good</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Stacey Garcia</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Throw</title>
+          <author>Stephen Romero</author>
+          <genre>Fiction</genre>
+          <year>1997</year>
+        </book>
+        <book>
+          <title>Letter page</title>
+          <author>Austin Grant</author>
+          <genre>Non-Fiction</genre>
+          <year>2011</year>
+        </book>
+        <book>
+          <title>Yourself</title>
+          <author>Rachel Miller</author>
+          <genre>Self-Help</genre>
+          <year>2016</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Retired</status>
+      <title>Biomedical scientist</title>
+      <company>Ho PLC</company>
+    </employment>
+  </life>
+  <life id="L096">
+    <personalInfo>
+      <name>John Hall</name>
+      <age>65</age>
+      <location>Jacksonfurt</location>
+      <hobbies>value, difficult, situation</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>79c19225-0dbd-4c69-9261-d1b70621528a</id>
+        <name>Learn Python</name>
+        <description>Enroll in an online Python course and complete 10 hands-on projects.</description>
+        <priority>Medium</priority>
+        <deadline unit="months">11</deadline>
+        <status>In Progress</status>
+        <progress percentage="39"/>
+      </goal>
+    </goals>
+    <relationships>
+      <family>
+        <member>
+          <name>Vincent Beck</name>
+          <relation>Child</relation>
+          <age>23</age>
+        </member>
+        <member>
+          <name>Adam Hendricks</name>
+          <relation>Spouse</relation>
+          <age>50</age>
+        </member>
+        <member>
+          <name>Wendy Anderson</name>
+          <relation>Child</relation>
+          <age>78</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Patricia Aguilar</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+        <friend>
+          <name>Amanda Mclaughlin</name>
+          <yearsKnown>5</yearsKnown>
+        </friend>
+        <friend>
+          <name>Jessica Hughes</name>
+          <yearsKnown>14</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Book anything system</title>
+          <author>Todd Munoz</author>
+          <genre>Self-Help</genre>
+          <year>2014</year>
+        </book>
+        <book>
+          <title>Usually approach fish</title>
+          <author>Valerie Barber</author>
+          <genre>Non-Fiction</genre>
+          <year>2009</year>
+        </book>
+        <book>
+          <title>More process chair</title>
+          <author>Aaron Lee</author>
+          <genre>Fiction</genre>
+          <year>2002</year>
+        </book>
+        <book>
+          <title>Area but second</title>
+          <author>Derrick Lambert</author>
+          <genre>Fiction</genre>
+          <year>2015</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L097">
+    <personalInfo>
+      <name>Ricky Vincent</name>
+      <age>34</age>
+      <location>Collinstown</location>
+      <hobbies>plant, within, weight</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>93cb9b99-08d4-4337-8f8d-f836fbdccd92</id>
+        <name>Learn Data Visualization</name>
+        <description>Master tools like Tableau and Matplotlib to visualize complex datasets.</description>
+        <priority>Low</priority>
+        <deadline unit="months">2</deadline>
+        <status>Completed</status>
+        <progress percentage="78"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Needs Support</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Jonathan Hernandez</name>
+          <yearsKnown>19</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Compare market main skin</title>
+          <author>Christine Taylor</author>
+          <genre>Non-Fiction</genre>
+          <year>1999</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+    <employment>
+      <status>Employed</status>
+      <title>Clinical biochemist</title>
+      <company>Vasquez, Reilly and Powers</company>
+    </employment>
+  </life>
+  <life id="L098">
+    <personalInfo>
+      <name>Stephanie Thompson</name>
+      <age>21</age>
+      <location>West Mirandaside</location>
+      <hobbies>school, keep, six</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>19124e36-6bf8-4730-8011-f2795213533f</id>
+        <name>Start a Blog</name>
+        <description>Write weekly blog posts about personal interests and experiences.</description>
+        <priority>High</priority>
+        <deadline unit="months">12</deadline>
+        <status>Not Started</status>
+        <progress percentage="32"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Daily</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Timothy Fritz</name>
+          <relation>Child</relation>
+          <age>56</age>
+        </member>
+        <member>
+          <name>Richard Moore</name>
+          <relation>Parent</relation>
+          <age>29</age>
+        </member>
+        <member>
+          <name>Joshua Bowman</name>
+          <relation>Spouse</relation>
+          <age>35</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Michele Li</name>
+          <yearsKnown>9</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead>
+        <book>
+          <title>Work measure subject</title>
+          <author>John Sutton</author>
+          <genre>Fiction</genre>
+          <year>2008</year>
+        </book>
+        <book>
+          <title>Modern local election best</title>
+          <author>Leslie Mahoney</author>
+          <genre>Non-Fiction</genre>
+          <year>1997</year>
+        </book>
+        <book>
+          <title>Seek before effect</title>
+          <author>Kathy Williams</author>
+          <genre>Non-Fiction</genre>
+          <year>2021</year>
+        </book>
+      </booksRead>
+    </personalGrowth>
+  </life>
+  <life id="L099">
+    <personalInfo>
+      <name>David Moody PhD</name>
+      <age>61</age>
+      <location>South Charles</location>
+      <hobbies>relate, political, theory</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>c41e5b85-a21f-4e7a-896c-113fec0909bf</id>
+        <name>Volunteer Monthly</name>
+        <description>Participate in monthly volunteering events within the local community.</description>
+        <priority>High</priority>
+        <deadline unit="months">8</deadline>
+        <status>Completed</status>
+        <progress percentage="18"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>Weekly</exercise>
+      <diet>Vegetarian</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family>
+        <member>
+          <name>Alexis Fuller</name>
+          <relation>Sibling</relation>
+          <age>23</age>
+        </member>
+        <member>
+          <name>Nicole Gonzalez</name>
+          <relation>Spouse</relation>
+          <age>35</age>
+        </member>
+        <member>
+          <name>Melissa Peters DDS</name>
+          <relation>Sibling</relation>
+          <age>39</age>
+        </member>
+      </family>
+      <friends>
+        <friend>
+          <name>Maria Price</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Cynthia Williams</name>
+          <yearsKnown>20</yearsKnown>
+        </friend>
+        <friend>
+          <name>Angelica Fields</name>
+          <yearsKnown>7</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <employment>
+      <status>Retired</status>
+      <title>Amenity horticulturist</title>
+      <company>Brown-Reed</company>
+    </employment>
+  </life>
+  <life id="L100">
+    <personalInfo>
+      <name>Kimberly Winters</name>
+      <age>23</age>
+      <location>Port Belinda</location>
+      <hobbies>at, debate, concern</hobbies>
+    </personalInfo>
+    <goals>
+      <goal>
+        <id>adab03fe-2bcb-46f9-a096-c3d78589d9c4</id>
+        <name>Get Fit</name>
+        <description>Establish a regular workout routine including cardio and strength training.</description>
+        <priority>Low</priority>
+        <deadline unit="months">3</deadline>
+        <status>Not Started</status>
+        <progress percentage="70"/>
+      </goal>
+    </goals>
+    <health>
+      <exercise>None</exercise>
+      <diet>Unrestricted</diet>
+      <mentalWellness>Fair</mentalWellness>
+    </health>
+    <relationships>
+      <family/>
+      <friends>
+        <friend>
+          <name>Lisa Nelson</name>
+          <yearsKnown>18</yearsKnown>
+        </friend>
+        <friend>
+          <name>Mr. Brandon Perkins</name>
+          <yearsKnown>4</yearsKnown>
+        </friend>
+        <friend>
+          <name>Michael Carlson</name>
+          <yearsKnown>8</yearsKnown>
+        </friend>
+      </friends>
+    </relationships>
+    <personalGrowth>
+      <booksRead/>
+    </personalGrowth>
+    <employment>
+      <status>Student</status>
+      <title>Call centre manager</title>
+      <company>Williams-Downs</company>
+    </employment>
+  </life>
+</lives>
