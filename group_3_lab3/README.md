@@ -3,7 +3,7 @@ David wrote the CSV to CSV and JSON to CSV extractors. McKinley found the datase
 At one point in her life, my mother taught English to students in Hawaii, and I have a couple friends who have English as a second language, so I was curious what it was like on the administrative side of teaching English to children. 
 I liked that the datasets were not terribly big, and had very similar columns, but still had different values from each other.
 
-The columns I decided to keep were the (_id, _uuid, _position, and _address columns) OR (the organizationid, gradelevel, test, orglevel, organizationname, schoolyear, metstandarddatnotes, metstandarddenominatordat, metstandarddat, metstandardlabel, and dataasof columns.)  I did this because of the ease of only keeping these columns from the XML file.
+The columns I decided to keep were the organizationid, gradelevel, test, orglevel, organizationname, and schoolyear columns.  I kept these columns because they are columns the files all have in common and are in the same order.
 
 
 Name, Source, Format, Number of records, Fields
