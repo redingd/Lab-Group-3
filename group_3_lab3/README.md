@@ -6,16 +6,16 @@ I liked that the datasets were not terribly big, and had very similar columns, b
 The columns I decided to keep were the (_id, _uuid, _position, and _address columns) OR (the organizationid, gradelevel, test, orglevel, organizationname, schoolyear, metstandarddatnotes, metstandarddenominatordat, metstandarddat, metstandardlabel, and dataasof columns.)  I did this because of the ease of only keeping these columns from the XML file.
 
 
-Name                                      Source                                                   Format  Number of records  Fields
-------------------------------------------------------------------------------------------------------------------------------------
+Name                                      Source                                                  Format Number of records Fields
+
 Report Card English Learner Assessment    https://catalog.data.gov/dataset/report-card-english     XML     14171              15
 Data 2022-23 School Year                  -learner-assessment-data-2022-23-school-year    
-------------------------------------------------------------------------------------------------------------------------------------                   
+                  
 Report Card English Learner Assessment    https://catalog.data.gov/dataset/report-card-english     JSON    14258              15                    
 Data 2023-24 School Year                  -learner-assessment-data-2023-24-school-year
-------------------------------------------------------------------------------------------------------------------------------------
+
 Report Card English Learner Assessment    https://catalog.data.gov/dataset/report-card-english     CSV     17912              15
 Data 2024-25 School Year                  -learner-assessment-data-2024-25-school-year
-------------------------------------------------------------------------------------------------------------------------------------
+
 
 
