@@ -71,7 +71,7 @@ def Clean_Data(data):
         i += 1
     return data_for_csv
 
-def Write_CSV_File(row_data_csv, csv_file):
+def Write_CSV_File(data_for_csv, csv_file):
     # Write header
     header = ['Country Name', 'Category Name','Category Total']
 
@@ -84,7 +84,9 @@ def Write_CSV_File(row_data_csv, csv_file):
     # print number of rows in the new CSV file
     with open(csv_file, 'r', newline = '') as file:
         reader = csv.reader(file)
-        row_count = sum(1 for row in reader)
+        row_count = -1 # set at -1 to exclude header
+        for row in reader:
+            row_count += 1
         print(f"Number of rows in '{csv_file}': {row_count}")
 
 
