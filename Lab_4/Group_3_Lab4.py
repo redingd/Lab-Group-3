@@ -24,7 +24,7 @@ while i < (len(data)):
     j = 0
     while j < (len(data[i])):
         if j == 4 or j == 10 or j == 12 or j == 14 or j == 16 or j == 18 or j == 20 or j == 22 or j == 24 or j == 26:
-            if data[i][j] == 0 or data[i][j] == "-" or data[i][j] == "None" or data[i][j] == "–" or data[i][j] == "–":
+            if data[i][j] == 0 or data[i][j] == "-" or data[i][j] == "None" or data[i][j] == "–" or data[i][j] == "–" or data[i][j] == "– ":
                 pass
             else:
                 row_data_csv = []
