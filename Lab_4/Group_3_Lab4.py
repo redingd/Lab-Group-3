@@ -19,13 +19,12 @@ def Read_XML_File(xml_file): # returns an array containing all data read from th
         data.append(row_data)
     return data
 
-
+data_for_csv = []
 def Clean_Data(data):
     # made a nested list for the csv file to be written from, after cleaning the data. i is the row, j is the column
     # check j to see what column it came from, to see what the category name has to be, then make a nested list out of it
     # to make it easy to make a csv file out of it
     i = 0
-    data_for_csv = []
     while i < (len(data)):
         j = 0
         while j < (len(data[i])):
