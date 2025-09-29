@@ -3,6 +3,8 @@
 # The columns from the xlsx sheet to be used are: B, E, K, M, O, Q, S, U, W, Y, AA
 
 import openpyxl as xl
+import csv
+
 # The conversion process is split acorss three functions, meant to read data from the xml file, clean it, and then write it to the csv file
 def Read_XML_File(xml_file): # returns an array containing all data read from the xml file
     wkbk = xl.load_workbook(xml_file, read_only = True, data_only = True)
@@ -70,20 +72,27 @@ def Clean_Data(data):
         i += 1
     return data_for_csv
 
-def Write_CSV_File(row_data_csv):
+def Write_CSV_File(row_data_csv, csv_file):
     # Write header
     header = ['Country Name', 'Category Name','Category Total']
 
     # Write header and data to new CSV file
-    with open('./Lab4Data.csv', 'w', newline='') as csvfile:
+    with open(csv_file, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(header)
         writer.writerows(data_for_csv)
 
+    # print number of rows in the new CSV file
+    with open(csv_file, 'r', newline = '') as file:
+        reader = csv.reader(file)
+        row_count = sum(1 for row in reader)
+        print(f"Number of rows in '{csv_file}': {row_count}")
+
 
 # Call functions to convert the SML file to CSV
 
-xmlFileName = "./Lab4Data.xlsx"
+xmlFileName = './Lab4Data.xlsx'
+csvFileName = './redingd1.csv' # instructions said to name the new file your_nku_username.csv
 rawData = Read_XML_File(xmlFileName)
 cleanData = Clean_Data(rawData)
-Write_CSV_File(cleanData)
+Write_CSV_File(cleanData, csvFileName)
