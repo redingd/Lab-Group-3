@@ -1,8 +1,6 @@
-"""
-CONTRIBUTION STATEMENT
-Mckinley wrote the excel file reader and did the data cleaning and organization.
-David wrote the csv file writer and row counter, and reorganized the code into functions.
-"""
+# CONTRIBUTION STATEMENT
+# Mckinley wrote the excel file reader and did the data cleaning and organization.
+# David wrote the csv file writer and row counter, and reorganized the code into functions.
 
 
 # Per the assignment instructions, we are to only turn in this file, NOT the xlsx sheet
