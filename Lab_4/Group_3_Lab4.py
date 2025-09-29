@@ -1,3 +1,10 @@
+"""
+CONTRIBUTION STATEMENT
+Mckinley wrote the excel file reader and did the data cleaning and organization.
+David wrote the csv file writer and row counter, and reorganized the code into functions.
+"""
+
+
 # Per the assignment instructions, we are to only turn in this file, NOT the xlsx sheet
 
 # The columns from the xlsx sheet to be used are: B, E, K, M, O, Q, S, U, W, Y, AA
@@ -5,8 +12,8 @@
 import openpyxl as xl
 import csv
 
-# The conversion process is split acorss three functions, meant to read data from the xml file, clean it, and then write it to the csv file
-def Read_XML_File(xml_file): # returns an array containing all data read from the xml file
+# The conversion process is split acorss three functions, meant to read data from the excel file, clean it, and then write it to the csv file
+def Read_Excel_File(Excel_file): # returns an array containing all data read from the excel file
     wkbk = xl.load_workbook(xml_file, read_only = True, data_only = True)
     a = wkbk.worksheets[1]
     data = []
@@ -92,8 +99,8 @@ def Write_CSV_File(data_for_csv, csv_file):
 
 # Call functions to convert the SML file to CSV
 
-xmlFileName = './Lab4Data.xlsx'
+excelFileName = './Lab4Data.xlsx'
 csvFileName = './redingd1.csv' # instructions said to name the new file your_nku_username.csv
-rawData = Read_XML_File(xmlFileName)
+rawData = Read_Excel_File(excelFileName)
 cleanData = Clean_Data(rawData)
 Write_CSV_File(cleanData, csvFileName)
