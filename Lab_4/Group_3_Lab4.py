@@ -64,3 +64,12 @@ while i < (len(data)):
                     data_for_csv.append(row_data_csv)
         j += 1
     i += 1
+
+# Write header
+header = ['Country Name', 'Category Name','Category Total']
+
+# Write header and data to new CSV file
+with open('./Lab4Data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(header)
+    writer.writerows(data_for_csv)
