@@ -60,7 +60,7 @@ while i < (len(data)):
                     row_data_csv.extend([data[i][1], "Justification of wife beating (%) 2005-2012_female", data[i][j]])
                     data_for_csv.append(row_data_csv)
                 if j == 26:
-                    row_data_csv.extend([data[i][j], "Violent discipline (%) 2005-2012", data[i][j]])
+                    row_data_csv.extend([data[i][1], "Violent discipline (%) 2005-2012", data[i][j]])
                     data_for_csv.append(row_data_csv)
         j += 1
     i += 1
