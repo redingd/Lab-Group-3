@@ -18,5 +18,5 @@ with pdfplumber.open(pdf_filename) as pdf:
     # turning big list into nested list, where each row is mostly one line for actual data
     nested_list_raw_data = []
     for line in list_raw_data:
-        temp_row = [line]
-        nested_list_raw_data.append(temp_row)
+        temp_row = [line.split(" ")]
+        nested_list_raw_data.extend(temp_row)
