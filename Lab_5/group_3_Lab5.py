@@ -112,12 +112,14 @@ with pdfplumber.open(pdf_filename) as pdf:
                 i += 1
         n += 1
 
-
+header = ["CountryName", "CategoryName", "CategoryTotal"]
 with open("../Group_3_Lab5/group_3_Lab5.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     # line 117 is to see which rows are which index values in nested_list_raw_data
     #writer.writerows(nested_list_raw_data)
+    writer.writerow(header)
     writer.writerows(nested_list_cleaned_data)
+print(f"The number of rows in the CSV file is: {len(nested_list_cleaned_data)}")
 
 # all of the below is for testing purposes
 """ 
