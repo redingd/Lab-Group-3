@@ -1,4 +1,4 @@
-eimport pdfplumber
+import pdfplumber
 pdf_filename = "Table9.pdf"
 
 with pdfplumber.open(pdf_filename) as pdf:
