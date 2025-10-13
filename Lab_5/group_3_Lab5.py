@@ -20,6 +20,8 @@ with pdfplumber.open(pdf_filename) as pdf:
     for line in list_raw_data:
         temp_row = [line.split(" ")]
         nested_list_raw_data.extend(temp_row)
+    
+    
     nested_list_cleaned_data = []
     for line in nested_list_raw_data:
         i = 0
