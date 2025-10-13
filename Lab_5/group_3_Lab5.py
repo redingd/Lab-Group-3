@@ -1,4 +1,4 @@
-import pdfplumber
+eimport pdfplumber
 pdf_filename = "Table9.pdf"
 
 with pdfplumber.open(pdf_filename) as pdf:
@@ -28,7 +28,7 @@ with pdfplumber.open(pdf_filename) as pdf:
         while i < len(line):
             if (line[i] == "-" or line[i] == "x" or line[i] == "y" or line[i] == "v" or line[i] == "x,y" or line[i] == "v,x,y" or line[i] == "**"):
                 line.pop(i)
-                
+            else:
                 temp_row_data = []
                 if (i == 2):
                     temp_row_data.extend(line[1], "Child labour (%) 2005-2012", line [i])
@@ -60,6 +60,8 @@ with pdfplumber.open(pdf_filename) as pdf:
                 if (i == 13):
                     temp_row_data.extend(line[1], "Violent Discipline (%) 2005-2012", line [i])
                     nested_list_cleaned_data.append(temp_row_data)
+
+                i += 1
 
 
 with open("..\Group_3_Lab5\group_3_Lab5.csv", "w", newline="") as csvfile:
