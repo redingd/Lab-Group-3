@@ -1,4 +1,5 @@
 import pdfplumber
+import csv
 pdf_filename = "Table9.pdf"
 
 with pdfplumber.open(pdf_filename) as pdf:
