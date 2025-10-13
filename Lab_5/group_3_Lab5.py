@@ -113,7 +113,7 @@ with pdfplumber.open(pdf_filename) as pdf:
         n += 1
 
 
-with open("..\Group_3_Lab5\group_3_Lab5.csv", "w", newline="") as csvfile:
+with open("../Group_3_Lab5/group_3_Lab5.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     # line 117 is to see which rows are which index values in nested_list_raw_data
     #writer.writerows(nested_list_raw_data)
@@ -121,7 +121,7 @@ with open("..\Group_3_Lab5\group_3_Lab5.csv", "w", newline="") as csvfile:
 
 # all of the below is for testing purposes
 """ 
-with open("..\Group_3_Lab5\group_3_Lab5.csv", "r") as csvfile:
+with open("../Group_3_Lab5/group_3_Lab5.csv", "r") as csvfile:
     reader = csv.reader(csvfile)
     count = 0
     for row in reader:
