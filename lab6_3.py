@@ -9,3 +9,53 @@
 # One of the files is too large to import into GitHub, so only one of them is currently in the folder for this lab
 # Whoever submits the assignment will need to make sure that they include the other csv file that is 220 MB
 
+# part 1, should rewrite as a function
+import csv
+import pandas as pd
+filename1 = "./bestcolleges.csv"
+filename2 = "./Prep_Scholar_SAT_Dataset.csv"
+filename3 = "./Princeton_Review_SAT_Dataset.csv"
+
+# read the files, put them into a nested list
+file1 = open(filename1)
+f1 = csv.reader(file1)
+list1 = []
+for row in f1:
+    list1.append(row)
+# create a dataframe out of the list
+pd1 = pd.DataFrame(list1)
+# make the column names the first row of the csv file
+pd1.columns = list1[0]
+# drop the now duplicated first actual row of the df
+pd1.drop([0], inplace=True)
+
+
+file2 = open(filename2)
+f2 = csv.reader(file2)
+list2 = []
+for row in f2:
+    list2.append(row)
+
+pd2 = pd.DataFrame(list2)
+pd2.columns = list2[0]
+pd2.drop([0], inplace=True)
+
+
+file3 = open(filename3)
+f3 = csv.reader(file3)
+list3 = []
+for row in f3:
+    list3.append(row)
+
+pd3 = pd.DataFrame(list3)
+pd3.columns = list3[0]
+pd3.drop([0], inplace=True)
+
+# outer join of first 2 dataframes to make a new one
+merged_1_and_2 = pd.merge(pd1, pd2, on='State', how="outer")
+# outer join of first 2 df and 3rd one
+merged_all = pd.merge(merged_1_and_2, pd3, on="State", how="outer")
+merged_all.to_csv("./merged_sat_stats.csv")
+file1.close()
+file2.close()
+file3.close()
