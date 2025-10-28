@@ -59,3 +59,36 @@ merged_all.to_csv("./merged_sat_stats.csv")
 file1.close()
 file2.close()
 file3.close()
+
+
+# part 2
+# creating pandas dataframes out of csv files
+movies_df = pd.read_csv("./rotten_tomatoes_movies.csv")
+reviews_df = pd.read_csv("./rotten_tomatoes_critic_reviews.csv")
+
+# removing duplicates from reviews because it has them (movies does not have them)
+reviews_df.drop_duplicates(inplace=True)
+
+# dropping columns with a high number of empty values
+movies_df.drop(columns=["critics_consensus"], inplace=True)
+reviews_df.drop(columns=["review_score"], inplace=True)
+
+# 12718 to drop an unset row (round midnight)
+list_rows_movies_to_drop = [12717]
+
+# looping through rows to get amounts of null values in them: if more than 30% of values are null, the row is removed
+for index, row in movies_df.iterrows():
+    a = movies_df.loc[index].isnull().sum()
+    if a >= 7:
+        list_rows_movies_to_drop.append(index)
+movies_df.drop(list_rows_movies_to_drop, inplace=True)
+
+# 10701 to drop an unset row (unborn, reviewed by tom meek)
+list_rows_reviews_to_drop = [10701]
+
+# looping through rows to get amounts of null values in them: if more than 30% of values are null, the row is removed
+for index, row in reviews_df.iterrows():
+    b = reviews_df.loc[index].isnull().sum()
+    if b >= 2:
+        list_rows_reviews_to_drop.append(index)
+reviews_df.drop(list_rows_reviews_to_drop, inplace=True)
