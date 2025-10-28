@@ -12,7 +12,7 @@
 # part 1, should rewrite as a function
 import csv
 import pandas as pd
-filename1 = "./bestcolleges.csv"
+filename1 = "./Best_Colleges_SAT_Dataset.csv"
 filename2 = "./Prep_Scholar_SAT_Dataset.csv"
 filename3 = "./Princeton_Review_SAT_Dataset.csv"
 
@@ -92,3 +92,4 @@ for index, row in reviews_df.iterrows():
     if b >= 2:
         list_rows_reviews_to_drop.append(index)
 reviews_df.drop(list_rows_reviews_to_drop, inplace=True)
+
