@@ -3,10 +3,10 @@
 # Select either Part 1 (Data Merging) or Part 2 (Data Cleaning).
 # Run the selected function.
 
-# All xlsx files are for part 1, all csv files are for part 2
+# All #_SAT_Dataset.csv files are for part 1, the rest are for part 2
 
 # for part 2, there are two csv files needed which are both in a zip file linked in the assignment instructions on canvas
-# One of the files is too large to import into GitHub, so only one of them is currently in the folder for this lab
+# One of the files (rotten_tomatoes_critic_reviews.csv) is too large to import into GitHub, so only one of them (rotten_tomatoes_movies.csv) is currently in the folder for this lab
 # Whoever submits the assignment will need to make sure that they include the other csv file that is 220 MB
 
 # part 1, should rewrite as a function
@@ -92,4 +92,5 @@ for index, row in reviews_df.iterrows():
     if b >= 2:
         list_rows_reviews_to_drop.append(index)
 reviews_df.drop(list_rows_reviews_to_drop, inplace=True)
+
 
