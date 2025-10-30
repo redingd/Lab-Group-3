@@ -116,7 +116,7 @@ def part_2():
 
     # merge the files, put into new csv file
     merged_files = pd.merge(movies_df, reviews_df, on='rotten_tomatoes_link', how="outer")
-    merged_files.to_csv("./merged_movies.csv")
+    merged_files.to_csv("./lab6_group3_cleaned.csv")
 
 
 def choose_part(num):
@@ -128,6 +128,7 @@ def choose_part(num):
         print("Invalid input")
 
 choose_part(part_num)
+
 
 
 
