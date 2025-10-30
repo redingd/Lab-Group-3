@@ -66,6 +66,16 @@ def part_2():
     movies_df = pd.read_csv("./rotten_tomatoes_movies.csv")
     reviews_df = pd.read_csv("./rotten_tomatoes_critic_reviews.csv")
 
+    # print number of features and observations before data cleaning
+    movie_counter = 0
+    review_counter = 0
+    for row in movies_df.iterrows():
+        movie_counter += 1
+    for row in reviews_df.iterrows():
+        review_counter += 1
+    print("Number of Features (before cleaning): " + str(movie_counter - 1)) # subtract 1 to account for header
+    print("Number of Observations (before cleaning): " + str(review_counter - 1))
+
     # removing duplicates from reviews because it has them (movies does not have them)
     reviews_df.drop_duplicates(inplace=True)
 
@@ -93,6 +103,22 @@ def part_2():
             list_rows_reviews_to_drop.append(index)
     reviews_df.drop(list_rows_reviews_to_drop, inplace=True)
 
+    # print number of features and observations after data cleaning
+    # first, reset counters
+    movie_counter = 0
+    review_counter = 0
+    for row in movies_df.iterrows():
+        movie_counter += 1
+    for row in reviews_df.iterrows():
+        review_counter += 1
+    print("Number of Features (after cleaning): " + str(movie_counter - 1)) # subtract 1 to account for header
+    print("Number of Observations (after cleaning): " + str(review_counter - 1))
+
+    # merge the files, put into new csv file
+    merged_files = pd.merge(movies_df, reviews_df, on='rotten_tomatoes_link', how="outer")
+    merged_files.to_csv("./merged_movies.csv")
+
+
 def choose_part(num):
     if num == 1:
         part_1()
@@ -102,5 +128,6 @@ def choose_part(num):
         print("Invalid input")
 
 choose_part(part_num)
+
 
 
