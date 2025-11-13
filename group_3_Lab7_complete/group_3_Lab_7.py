@@ -1,8 +1,36 @@
-# McKinley did task 3
+# McKinley did task 2 and 3
 import requests as rq
 import pandas as pd
 from bs4 import BeautifulSoup
 
+def task2():
+    url = "https://www.scrapethissite.com/pages/simple/"
+    # parsing data
+    data = rq.get(url)
+    parsed_data = BeautifulSoup(data.content, "html.parser")
+
+    # finding data for each country
+    countries = parsed_data.find_all("div", {"class": "col-md-4 country"})
+    country_name = []
+    country_capital = []
+    country_population = []
+    country_area = []
+    for country in countries:
+        # appending the country name to the list of country names, removing newline characters that were in there
+        name = country.find("h3", class_="country-name").text
+        country_name.append(name.replace("\n", ""))
+        # appending the capital to the list of capitals, similar process for other eventual columns
+        country_capital.append(country.find("span", class_="country-capital").text)
+        country_population.append(country.find("span", class_="country-population").text)
+        country_area.append(country.find("span", class_="country-area").text)
+    # making a dictionary out of the lists to make building the df very easy
+    countries_dict = {"Country Name": country_name, "Capital": country_capital, "Population": country_population,
+                      "Area (km^2)": country_area}
+    # building the df, converting to a csv
+    country_df = pd.DataFrame(countries_dict)
+    country_df.to_csv("./group_3_task2.csv")
+    rows, cols = country_df.shape
+    print(f"The number of rows is: {rows}, and the number of columns is: {cols}")
 
 def task_3():
     # setting up lists to make the df later
