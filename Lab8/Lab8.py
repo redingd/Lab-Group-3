@@ -37,13 +37,11 @@ def func_1():
         website_pd.to_csv("./Lab8_group3_function1.csv")
 
 
-def func_2():
+def func_2(apiKey, username):
     bigList2 = []
 
-    # we will be looking at audio source statistics from openverse
-    url2 = "https://openverse.org/v1/audio/stats/"
-    headers = {'Authorization':'Bearer <Openverse API token>'}
-
+    url2 = "https://www.kaggle.com/api/v1/datasets/download/aminasalamat/mental-health-of-students-dataset"
+    headers = {"username": username, "apiKey": apiKey}
     request = requests.get(url2, headers=headers)
     data2 = request.json()
     bigList2.append(data2)
@@ -58,6 +56,8 @@ answer = input("Type 1 for function 1, 2 for function 2: ")
 if answer == "1":
     func_1()
 elif answer == "2":
-    func_2()
+    USERNAME = input("Enter Username: ")
+    API_KEY = input("Enter API Key: ")
+    func_2(API_KEY, USERNAME)
 else:
     print ("Invalid input")
