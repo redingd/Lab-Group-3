@@ -53,6 +53,7 @@ def func_2():
     web_pd.to_csv("./Lab8_group3_function2.csv")
 
 
+# menu for the user to select a function
 answer = input("Type 1 for function 1, 2 for function 2: ")
 if answer == "1":
     func_1()
