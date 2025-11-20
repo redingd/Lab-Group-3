@@ -35,4 +35,28 @@ def func_1():
         # using pandas to flatten the json objects and build a csv file
         website_pd = pd.json_normalize(big_list)
         website_pd.to_csv("./Lab8_group3_function1.csv")
-func_1()
+
+
+def func_2():
+    bigList2 = []
+
+    # we will be looking at audio source statistics from openverse
+    url2 = "https://openverse.org/v1/audio/stats/"
+    headers = {'Authorization':'Bearer <Openverse API token>'}
+
+    request = requests.get(url2, headers=headers)
+    data2 = request.json()
+    bigList2.append(data2)
+
+    # pandas is used to make the csv file
+    web_pd = pd.json_normalize(bigList2)
+    web_pd.to_csv("./Lab8_group3_function2.csv")
+
+
+answer = input("Type 1 for function 1, 2 for function 2: ")
+if answer == "1":
+    func_1()
+elif answer == "2":
+    func_2()
+else:
+    print ("Invalid input")
