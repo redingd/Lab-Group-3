@@ -40,7 +40,7 @@ def func_1():
 def func_2(apiKey, username):
     bigList2 = []
 
-    url2 = "https://www.kaggle.com/api/v1/datasets/download/aminasalamat/mental-health-of-students-dataset"
+    url2 = "https://www.kaggle.com/api/v1/datasets/view/mattop/super-bowl-television-ratings"
     headers = {"username": username, "apiKey": apiKey}
     request = requests.get(url2, headers=headers)
     data2 = request.json()
